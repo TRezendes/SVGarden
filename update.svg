@@ -1,188 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2500 900" width="2500" height="900">
-<?xpacket begin="" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/">
-    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-             xmlns:xapRights="http://ns.adobe.com/xap/1.0/rights/"
-             xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-        <rdf:Description rdf:about="">
-            <xapRights:Marked>False</xapRights:Marked>
-            <xapRights:Owner>
-                <rdf:Bag>
-                    <rdf:li>Timothy Rezendes &amp; 232 Software</rdf:li>
-                </rdf:Bag>
-            </xapRights:Owner>
-            <xapRights:WebStatement rdf:resource="https://raw.githubusercontent.com/TRezendes/SVGarden/refs/heads/main/update.svg"/>
-            <xapRights:UsageTerms>
-                <rdf:Alt>
-                  <rdf:li xml:lang="x-default">This work is licensed under &lt;a href=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 1.0 Universal&lt;/a&gt;</rdf:li>
-                  <rdf:li xml:lang="en-US" >This work is licensed under &lt;a href=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 1.0 Universal&lt;/a&gt;</rdf:li>
-                </rdf:Alt>
-            </xapRights:UsageTerms>
-            <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
-            <cc:attributionName>Timothy Rezendes &amp; 232 Software</cc:attributionName>
-            <dc:title>
-                <rdf:Alt>
-                  <rdf:li xml:lang="x-default">update.svg</rdf:li>
-                  <rdf:li xml:lang="en-US">update.svg</rdf:li>
-                </rdf:Alt>
-            </dc:title>
-        </rdf:Description>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  iewBox="0 0 2500 900"
+  width="2500"
+  height="900"
+  >
+  <title id="title1">update</title>
+  <desc id="document-version">
+    1.0
+  </desc>
+  <metadata id="metadata1">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:title>update</dc:title>
+        <dc:date>2025-03-04</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Timothy Rezendes &amp; 232 Software</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>software update</rdf:li>
+            <rdf:li>update</rdf:li>
+            <rdf:li>patch</rdf:li>
+            <rdf:li>arrow</rdf:li>
+            <rdf:li>circuit</rdf:li>
+            <rdf:li>cover image</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:description>Three arrows of varying widths and heigts point upwards in front of a background that fades from blue to black. Lines resembling ciruits on a board trace across the image, behind the arrows.</dc:description>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
-</x:xmpmeta>
-<?xpacket end="r"?>
-  <defs>
-    <style>
-      #plumb {
-        transform: rotate(-19.8deg);
-        transform-origin: 50% 50%;
-      }
-      #layer01 {
-        fill: #005191;
-      }
-      #layer02, #layer03 {
-        fill: url(#gradient01);
-        transform: rotate(-19.8deg) translateY(-50%);
-        transform-origin: 50% 50%;
-      }
-      #line02 {
-        transform: translate(25px, -50px);
-      }
-      #line03 {
-        transform: translate(-25px, 25px);
-      }
-      #line04 {
-        transform: translate(-40px, 40px);
-      }
-      #line06 {
-        transform: translate(-20px, 80px);
-      }
-      #line07 {
-        transform: translate(-100px, 100px);
-      }
-      #line10 {
-        transform: translate(-128px, -256px);
-      }
-      #line12 {
-        transform: translate(25px, -20px);
-      }
-      #line13 {
-        transform: translate(55px, -60px);
-      }
-      #arrow01 {
-        transform: translateY(8px);
-      }
-      .stop0101 {
-        stop-color: #000000;
-        stop-opacity: 0%;
-      }
-      .stop0102 {
-        stop-color: #000000;
-        stop-opacity: 75%;
-      }
-      .stop0103 {
-        stop-color: #000000;
-        stop-opacity: 75%;
-      }
-      .circuit-line {
-        fill: none;
-        stroke: #539ed0;
-        stroke-width: 5;
-      }
-      .glow-line {
-        filter: url(#glow);
-      }
-      .arrow-main {
-        fill: #a1b9e1;
-        stroke: #bfd0ea;
-        stroke-width: 2px;
-      }
-      .arrow-side {
-        fill: #407ec9;
-        stroke: #003e89;
-        stroke-width: 2px;
-      }
-      #line02 {
-        stroke: #ffb351;
-      }
-    </style>
-    <linearGradient id="gradient01">
-      <stop class="stop0101" offset="0%" />
-      <stop class="stop0102" offset="66.66%" />
-      <stop class="stop0103" offset="100%" />
-    </linearGradient>
-    <filter id="glow">
-    <!-- Glow Filter by Drew Noakes: https://stackoverflow.com/users/24874/drew-noakes -->
-    <!-- https://stackoverflow.com/a/19704735 -->
-    <!-- https://jsfiddle.net/drewnoakes/gc8Bt/ -->
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur" />
-      <feMerge>
-        <feMergeNode in="coloredBlur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-  </defs>
-  <!-- <line id="plumb" x1="-79" y1="450" x2="2579" y2="450" stroke-width="26" stroke="#ff00ff" /> -->
-  <g id="background">
-    <rect id="layer01" x="0" y="0" width="2500" height="900" />
-    <rect id="layer02" x="0" y="0" width="2660" height="2500" />
-  </g>
-  <g id="circuit-lines">
-    <path
-      id="line09"
-      class="circuit-line"
-      d="
+    </metadata>
+    <defs>
+      <style>
+        #plumb {
+          transform: rotate(-19.8deg);
+          transform-origin: 50% 50%;
+        }
+
+        #layer01 {
+          fill: #005191;
+        }
+
+        #layer02,
+        #layer03 {
+          fill: url(#gradient01);
+          transform: rotate(-19.8deg) translateY(-50%);
+          transform-origin: 50% 50%;
+        }
+
+        #line02 {
+          transform: translate(25px, -50px);
+        }
+
+        #line03 {
+          transform: translate(-25px, 25px);
+        }
+
+        #line04 {
+          transform: translate(-40px, 40px);
+        }
+
+        #line06 {
+          transform: translate(-20px, 80px);
+        }
+
+        #line07 {
+          transform: translate(-100px, 100px);
+        }
+
+        #line10 {
+          transform: translate(-128px, -256px);
+        }
+
+        #line12 {
+          transform: translate(25px, -20px);
+        }
+
+        #line13 {
+          transform: translate(55px, -60px);
+        }
+
+        #arrow01 {
+          transform: translateY(8px);
+        }
+
+        .stop0101 {
+          stop-color: #000000;
+          stop-opacity: 0%;
+        }
+
+        .stop0102 {
+          stop-color: #000000;
+          stop-opacity: 75%;
+        }
+
+        .stop0103 {
+          stop-color: #000000;
+          stop-opacity: 75%;
+        }
+
+        .circuit-line {
+          fill: none;
+          stroke: #539ed0;
+          stroke-width: 5;
+        }
+
+        .glow-line {
+          filter: url(#glow);
+        }
+
+        .arrow-main {
+          fill: #a1b9e1;
+          stroke: #bfd0ea;
+          stroke-width: 2px;
+        }
+
+        .arrow-side {
+          fill: #407ec9;
+          stroke: #003e89;
+          stroke-width: 2px;
+        }
+
+        #line02 {
+          stroke: #ffb351;
+        }
+      </style>
+      <linearGradient id="gradient01">
+        <stop class="stop0101" offset="0%" />
+        <stop class="stop0102" offset="66.66%" />
+        <stop class="stop0103" offset="100%" />
+      </linearGradient>
+      <filter id="glow">
+        <!-- Glow Filter by Drew Noakes: https://stackoverflow.com/users/24874/drew-noakes -->
+        <!-- https://stackoverflow.com/a/19704735 -->
+        <!-- https://jsfiddle.net/drewnoakes/gc8Bt/ -->
+        <feGaussianBlur stdDeviation="2.5" result="coloredBlur" />
+        <feMerge>
+          <feMergeNode in="coloredBlur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <!-- <line id="plumb" x1="-79" y1="450" x2="2579" y2="450" stroke-width="26" stroke="#ff00ff" /> -->
+    <g id="background">
+      <rect id="layer01" x="0" y="0" width="2500" height="900" />
+      <rect id="layer02" x="0" y="0" width="2660" height="2500" />
+    </g>
+    <g id="circuit-lines">
+      <path id="line09" class="circuit-line" d="
         M 800 910
         L 800 800
         A 8 8 0 0 1 808 792
         L 2510 792
-      "
-      />
-    <path
-      id="line10"
-      class="circuit-line"
-      d="
+      " />
+      <path id="line10" class="circuit-line" d="
         M 800 1166
         L 800 800
         A 8 8 0 0 1 808 792
         L 2638 792
-      "
-    />
-    <path
-      id="line11"
-      class="circuit-line"
-      d="
+      " />
+      <path id="line11" class="circuit-line" d="
         M 440 -10
         L 440 308
         A 8 8 0 0 0 448 316
         L 2510 316
-      "
-    />
-    <path
-      id="line12"
-      class="circuit-line"
-      d="
+      " />
+      <path id="line12" class="circuit-line" d="
         M 440 10
         L 440 308
         A 8 8 0 0 0 448 316
         L 2485 316
-      "
-    />
-    <path
-      id="line13"
-      class="circuit-line"
-      d="
+      " />
+      <path id="line13" class="circuit-line" d="
         M 440 50
         L 440 308
         A 8 8 0 0 0 448 316
         L 2455 316
-      "
-    />
-    <rect id="layer03" x="0" y="0" width="2660" height="2500" />
-    <path
-      id="line01"
-      class="circuit-line glow-line"
-      d="
+      " />
+      <rect id="layer03" x="0" y="0" width="2660" height="2500" />
+      <path id="line01" class="circuit-line glow-line" d="
         M 312 -10
         L 312 300
         A 8 8 0 0 0 320 308
@@ -195,12 +204,8 @@
         L 500 462
         A 8 8 0 0 1 502 466
         L 502 910
-      "
-    />
-    <path
-      id="line02"
-      class="circuit-line glow-line"
-      d="
+      " />
+      <path id="line02" class="circuit-line glow-line" d="
         M 312 40
         L 312 300
         A 8 8 0 0 0 320 308
@@ -213,12 +218,8 @@
         L 500 462
         A 8 8 0 0 1 502 466
         L 502 960
-      "
-    />
-    <path
-      id="line03"
-      class="circuit-line glow-line"
-      d="
+      " />
+      <path id="line03" class="circuit-line glow-line" d="
         M 312 -35
         L 312 300
         A 8 8 0 0 0 320 308
@@ -231,12 +232,8 @@
         L 500 462
         A 8 8 0 0 1 502 466
         L 502 885
-      "
-    />
-    <path
-      id="line04"
-      class="circuit-line glow-line"
-      d="
+      " />
+      <path id="line04" class="circuit-line glow-line" d="
         M 112 -50
         L 312 300
         A 8 8 0 0 0 316 304
@@ -249,12 +246,8 @@
         L 500 462
         A 8 8 0 0 1 502 466
         L 502 870
-      "
-    />
-    <path
-      id="line05"
-      class="circuit-line glow-line"
-      d="
+      " />
+      <path id="line05" class="circuit-line glow-line" d="
         M -10 350
         L 200 350
         A 8 8 0 0 1 208 354
@@ -263,12 +256,8 @@
         L 438 608
         A 8 8 0 0 1 446 616
         L 446 910
-      "
-    />
-    <path
-      id="line06"
-      class="circuit-line glow-line"
-      d="
+      " />
+      <path id="line06" class="circuit-line glow-line" d="
         M -10 350
         L 200 350
         A 8 8 0 0 1 208 354
@@ -277,12 +266,8 @@
         L 438 608
         A 8 8 0 0 1 446 616
         L 446 830
-      "
-    />
-    <path
-      id="line07"
-      class="circuit-line glow-line"
-      d="
+      " />
+      <path id="line07" class="circuit-line glow-line" d="
         M -10 350
         L 200 350
         A 8 8 0 0 1 208 354
@@ -291,25 +276,17 @@
         L 438 608
         A 8 8 0 0 1 446 616
         L 446 810
-      "
-    />
-    <path
-      id="line08"
-      class="circuit-line glow-line"
-      d="
+      " />
+      <path id="line08" class="circuit-line glow-line" d="
         M -10 675
         L 200 675
         A 8 8 0 0 1 208 683
         L 208 910
-      "
-    />
-  </g>
-  <g id="arrows">
-    <g id="arrow01">
-      <path
-        id="arrow01-side"
-        class="arrow-side"
-        d="
+      " />
+    </g>
+    <g id="arrows">
+      <g id="arrow01">
+        <path id="arrow01-side" class="arrow-side" d="
           M 1050 662
           L 1050 900
           L 1040 910
@@ -322,26 +299,18 @@
           L 1290 672
           L 1250 672
           L 1250 660
-        "
-      />
-      <rect id="arrow01-rect" class="arrow-main" x="1050" y="660" width="200" height="240" />
-      <polyline
-        id="arrow01-poly"
-        class="arrow-main"
-        points="
+        " />
+        <rect id="arrow01-rect" class="arrow-main" x="1050" y="660" width="200" height="240" />
+        <polyline id="arrow01-poly" class="arrow-main" points="
           1051 662
           1000 662
           1150 540
           1300 662
           1249 662
-        "
-      />
-    </g>
-    <g id="arrow02">
-      <path
-        id="arrow02-side"
-        class="arrow-side"
-        d="
+        " />
+      </g>
+      <g id="arrow02">
+        <path id="arrow02-side" class="arrow-side" d="
           M 1375 352
           L 1375 900
           L 1369 910
@@ -354,29 +323,21 @@
           L 1557 367
           L 1525 367
           L 1525 350
-        "
-      />
-      <rect id="arrow02-rect" class="arrow-main" x="1375" y="350" width="150" height="550" />
-      <polyline
-        id="arrow02-poly"
-        class="arrow-main"
-        points="
+        " />
+        <rect id="arrow02-rect" class="arrow-main" x="1375" y="350" width="150" height="550" />
+        <polyline id="arrow02-poly" class="arrow-main" points="
           1376 352
           1338 352
           1450  75
           1562 352
           1524 352
-        "
-      />
-    </g>
+        " />
+      </g>
 
 
 
-    <g id="arrow03">
-      <path
-        id="arrow03-side"
-        class="arrow-side"
-        d="
+      <g id="arrow03">
+        <path id="arrow03-side" class="arrow-side" d="
           M 1760 508
           L 1760 900
           L 1748 912
@@ -389,20 +350,15 @@
           L 2061 520
           L 2010 520
           L 2010 506
-        "
-      />
-      <rect id="arrow03-rect" class="arrow-main" x="1760" y="506" width="250" height="394" />
-      <polyline
-        id="arrow03-poly"
-        class="arrow-main"
-        points="
+        " />
+        <rect id="arrow03-rect" class="arrow-main" x="1760" y="506" width="250" height="394" />
+        <polyline id="arrow03-poly" class="arrow-main" points="
           1761 508
           1698 508
           1886 309
           2072 508
           2009 508
-        "
-      />
+        " />
+      </g>
     </g>
-  </g>
 </svg>
