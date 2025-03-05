@@ -11,4 +11,7 @@ in this collection to the Public Domain, so you are not obligated to provide cre
 
 ---
 
+<<<<<<< HEAD
 ![GitHub License](https://img.shields.io/github/license/TRezendes/SVGarden?style=flat&color=27FB6B)
+=======
+>>>>>>> main
