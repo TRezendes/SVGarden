@@ -9,6 +9,12 @@ I will add them to the garden. Everything in the garden is yours to do with as y
 I appreciate attribute if you are so inclined, but I dedicate all of the images<br />
 in this collection to the Public Domain, so you are not obligated to provide credit.
 
+## SVGs
+
+1. [cyburntruck](cyburntruck.svg)
+2. [laptop](laptop.svg)
+3. [update](update.svg)
+
 ---
 
 ![GitHub License](https://img.shields.io/github/license/TRezendes/SVGarden?style=flat&color=27FB6B)
