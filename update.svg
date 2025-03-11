@@ -5,7 +5,7 @@
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:cc="http://creativecommons.org/ns#"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
-  iewBox="0 0 2500 900"
+  viewBox="0 0 2500 900"
   width="2500"
   height="900"
   >

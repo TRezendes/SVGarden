@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  viewBox="0 0 1024 512"
+  width="1024"
+  height="512"
+  >
+  <title id="title1">cyburntruck</title>
+  <metadata id="metadata1">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:title>cyburntruck</dc:title>
+        <dc:date>2025-03-10</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Timothy Rezendes</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Tesla</rdf:li>
+            <rdf:li>Elon Musk</rdf:li>
+            <rdf:li>Cybertruck</rdf:li>
+            <rdf:li>fire</rdf:li>
+            <rdf:li>Tesla Takedown</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:description>A Tesla Cybertruck in flames. Based on <a href="https://lgbtqia.space/@alice/114139939771255738">the work of @alice@lgbtqia.space</a>.</dc:description>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <style>
+      .body {
+        stroke: #000000;
+        stroke-width: 2px;
+        fill: #8d8b8c;
+        mask: url(#windshield-mask);
+      }
+
+      .windshield {
+        stroke: #000000;
+        stroke-width: 2px;
+        fill: #181616;
+        opacity: 0.8;
+
+      }
+
+      .wheel {
+        stroke: #000000;
+        stroke-width: 2px;
+        fill: #181616;
+      }
+
+      .running-board {
+        stroke: #000000;
+        stroke-width: 6px;
+        stroke-linecap: round;
+      }
+
+      .fire {
+        stroke: #ff0000;
+        stroke-width: 0;
+        fill: url(#grad1);
+        mask: url(#fire-mask-1);
+      }
+
+      #fire-2 {
+        transform: translate(900px,-400px) scale(-2.2,2.2) rotate(19deg);
+        transform-origin: 0% 0%;
+      }
+
+      #fire-3 {
+        transform: translate(1100px,-54px) scale(3,1);
+        transform-origin: 50% 50%;
+      }
+
+      #fire-4 {
+        transform: translate(-22px,1128px) scale(1.5,3) rotate(100deg);
+        transform-origin: 50% 50%;
+        display: none;
+      }
+    </style>
+    <mask id="windshield-mask">
+      <polygon id="windshield-mask-body" fill="#ffffff" points="
+      30  330
+      44  414
+      74  420
+      74  400
+      110 340
+      220 330
+      270 400
+      680 390
+      680 420
+      690 430
+      704 386
+      750 320
+      850 320
+      888 370
+      946 370
+      956 362
+      970 260
+      452 192
+      426 192
+    " />
+      <polygon id="windshield-mask-windshield" fill="#000000" points="
+        448 198
+        427 198
+        200 280
+        636 258
+        628 220
+      " />
+    </mask>
+    <mask id="fire-mask-1">
+      <path
+        id="fire-mask-1-path"
+        fill="url(#mask-grad)"
+        d="
+        M 76  208
+        Q 36  225 88  302
+        Q 112 320 110 340
+        L 220 330
+        Q 148 292 190 248
+        Q 188 216 114 174
+      "
+      />
+    </mask>
+      <radialGradient
+        id="mask-grad"
+        cx="50%"
+        cy="50%"
+        r="50%"
+        fx="50%"
+        fy="90%"
+        >
+          <stop offset="0%" stop-color="#ffffff" />
+          <stop offset="90%" stop-color="#777777" />
+          <stop offset="100%" stop-color="#000000" />
+      </radialGradient>
+    <radialGradient
+      id="grad1"
+      cx="50%"
+      cy="50%"
+      r="50%"
+      fx="50%"
+      fy="90%"
+      >
+      <stop offset="0%" stop-color="yellow" />
+      <stop offset="50%" stop-color="orange" />
+      <stop offset="100%" stop-color="red" />
+    </radialGradient>
+    <radialGradient
+      id="grad1"
+      cx="50%"
+      cy="50%"
+      r="50%"
+      fx="50%"
+      fy="90%"
+      >
+      <stop offset="0%" stop-color="yellow" />
+      <stop offset="50%" stop-color="orange" />
+      <stop offset="100%" stop-color="red" />
+    </radialGradient>
+
+  </defs>
+  <!-- <rect id="background" fill="blue" x="0" y="0" width="1024" height="512" /> -->
+  <g id="fire-back">
+    <path id="fire-3" class="fire" d="
+        M 76  208
+        C 120 300 36  225 88  302
+        Q 112 320 110 340
+        L 220 330
+        Q 448 292 319 248
+        C 188 216 125 223 114 174
+      " />
+  </g>
+  <g id="truck">
+    <polygon id="body" class="body" points="
+        30  330
+        44  414
+        74  420
+        74  400
+        110 340
+        220 330
+        270 400
+        680 390
+        680 420
+        690 430
+        704 386
+        750 320
+        850 320
+        888 370
+        946 370
+        956 362
+        970 260
+        452 192
+        426 192
+      " />
+    <polygon id="windshield" class="windshield" points="
+        448 198
+        427 198
+        200 280
+        636 258
+        628 220
+      " />
+    <line id="running-board" class="running-board" x1="278" y1="430" x2="658" y2="420" />
+    <circle id="front-wheel" class="wheel" cx="170" cy="426" r="82" />
+    <circle id="rear-wheel" class="wheel" cx="800" cy="426" r="82" />
+  </g>
+  <g id="fire-front">
+    <path id="fire-1" class="fire" d="
+        M 76  208
+        C 120 300 36  225 88  302
+        Q 112 320 110 340
+        L 220 330
+        Q 148 292 190 248
+        C 188 216 125 223 114 174
+      " />
+    <path id="fire-2" class="fire" d="
+        M 76  208
+        C 120 300 36  225 88  302
+        Q 112 320 110 340
+        L 220 330
+        Q 148 292 190 248
+        C 188 216 125 223 114 174
+      " />
+    <path id="fire-4" class="fire" d="
+        M 76  208
+        C 120 300 36  225 88  302
+        Q 112 320 110 340
+        L 220 330
+        Q 148 292 190 248
+        C 188 216 125 223 114 174
+      " />
+  </g>
+</svg>
