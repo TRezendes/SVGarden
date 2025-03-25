@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  viewBox="0 0 2500 900"
+  width="2500"
+  height="900"
+  >
+  <title id="patch-tuesday-title">patch-tuesday</title>
+  <desc id="document-version">
+    1.0
+  </desc>
+  <metadata id="patch-tuesday-metadata">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:title>patch-tuesday</dc:title>
+        <dc:date>2025-03-25</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Timothy Rezendes &amp; 232 Software</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>software update</rdf:li>
+            <rdf:li>update</rdf:li>
+            <rdf:li>patch</rdf:li>
+            <rdf:li>arrow</rdf:li>
+            <rdf:li>circuit</rdf:li>
+            <rdf:li>cover image</rdf:li>
+            <rdf:li>Patch Tuesday</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:description>
+          Foreground: "Patch Tuesday" written in red.
+          Background: Three arrows of varying widths and heigts point upwards in front of a background that fades from blue to black. Lines resembling ciruits on a board trace across the image, behind the arrows.
+        </dc:description>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+    </metadata>
+    <defs>
+      <style>
+        @font-face {
+          font-family: "League Gothic";
+          src:
+            url("data:@file/octet-stream;base64,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")
+              format("woff2");
+        }
+
+        #plumb {
+          transform: rotate(-19.8deg);
+          transform-origin: 50% 50%;
+        }
+
+        #layer01 {
+          fill: #005191;
+        }
+
+        #layer02,
+        #layer03 {
+          fill: url(#gradient01);
+          transform: rotate(-19.8deg) translateY(-50%);
+          transform-origin: 50% 50%;
+        }
+
+        #line02 {
+          transform: translate(25px, -50px);
+        }
+
+        #line03 {
+          transform: translate(-25px, 25px);
+        }
+
+        #line04 {
+          transform: translate(-40px, 40px);
+        }
+
+        #line06 {
+          transform: translate(-20px, 80px);
+        }
+
+        #line07 {
+          transform: translate(-100px, 100px);
+        }
+
+        #line10 {
+          transform: translate(-128px, -256px);
+        }
+
+        #line12 {
+          transform: translate(25px, -20px);
+        }
+
+        #line13 {
+          transform: translate(55px, -60px);
+        }
+
+        #arrow01 {
+          transform: translateY(8px);
+        }
+
+        .stop0101 {
+          stop-color: #000000;
+          stop-opacity: 0%;
+        }
+
+        .stop0102 {
+          stop-color: #000000;
+          stop-opacity: 75%;
+        }
+
+        .stop0103 {
+          stop-color: #000000;
+          stop-opacity: 75%;
+        }
+
+        .circuit-line {
+          fill: none;
+          stroke: #539ed0;
+          stroke-width: 5;
+        }
+
+        .glow-line {
+          filter: url(#glow);
+        }
+
+        .arrow-main {
+          fill: #a1b9e1;
+          stroke: #bfd0ea;
+          stroke-width: 2px;
+        }
+
+        .arrow-side {
+          fill: #407ec9;
+          stroke: #003e89;
+          stroke-width: 2px;
+        }
+
+        #line02 {
+          stroke: #ffb351;
+        }
+
+        text {
+          font-family: "League Gothic";
+          dominant-baseline: central;
+          text-anchor: middle;
+          fill: #bf3b34;
+          stroke: #bf3b34;
+          stroke-width: 4px;
+          font-size: 600px;
+          filter:url(#text-shadow);
+        }
+      </style>
+      <filter id="text-shadow">
+        <feDropShadow
+          dx="4"
+          dy="4"
+          stdDeviation="2"
+          flood-color="#ff443b"
+          flood-opacity="1"
+        />
+        <feDropShadow
+          dx="6"
+          dy="6"
+          stdDeviation="6"
+          flood-color="#ff443b"
+          flood-opacity="1"
+        />
+      </filter>
+
+      <linearGradient id="gradient01">
+        <stop class="stop0101" offset="0%" />
+        <stop class="stop0102" offset="66.66%" />
+        <stop class="stop0103" offset="100%" />
+      </linearGradient>
+      <filter id="glow">
+        <!-- Glow Filter by Drew Noakes: https://stackoverflow.com/users/24874/drew-noakes -->
+        <!-- https://stackoverflow.com/a/19704735 -->
+        <!-- https://jsfiddle.net/drewnoakes/gc8Bt/ -->
+        <feGaussianBlur stdDeviation="2.5" result="coloredBlur" />
+        <feMerge>
+          <feMergeNode in="coloredBlur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <!-- <line id="plumb" x1="-79" y1="450" x2="2579" y2="450" stroke-width="26" stroke="#ff00ff" /> -->
+    <g id="background">
+      <rect id="layer01" x="0" y="0" width="2500" height="900" />
+      <rect id="layer02" x="0" y="0" width="2660" height="2500" />
+    </g>
+    <g id="circuit-lines">
+      <path id="line09" class="circuit-line" d="
+        M 800 910
+        L 800 800
+        A 8 8 0 0 1 808 792
+        L 2510 792
+      " />
+      <path id="line10" class="circuit-line" d="
+        M 800 1166
+        L 800 800
+        A 8 8 0 0 1 808 792
+        L 2638 792
+      " />
+      <path id="line11" class="circuit-line" d="
+        M 440 -10
+        L 440 308
+        A 8 8 0 0 0 448 316
+        L 2510 316
+      " />
+      <path id="line12" class="circuit-line" d="
+        M 440 10
+        L 440 308
+        A 8 8 0 0 0 448 316
+        L 2485 316
+      " />
+      <path id="line13" class="circuit-line" d="
+        M 440 50
+        L 440 308
+        A 8 8 0 0 0 448 316
+        L 2455 316
+      " />
+      <rect id="layer03" x="0" y="0" width="2660" height="2500" />
+      <path id="line01" class="circuit-line glow-line" d="
+        M 312 -10
+        L 312 300
+        A 8 8 0 0 0 320 308
+        L 350 308
+        A 8 8 0 0 1 358 316
+        L 358 400
+        A 8 8 0 0 0 366 408
+        L 466 408
+        A 8 8 0 0 1 472 412
+        L 500 462
+        A 8 8 0 0 1 502 466
+        L 502 910
+      " />
+      <path id="line02" class="circuit-line glow-line" d="
+        M 312 40
+        L 312 300
+        A 8 8 0 0 0 320 308
+        L 350 308
+        A 8 8 0 0 1 358 316
+        L 358 400
+        A 8 8 0 0 0 366 408
+        L 466 408
+        A 8 8 0 0 1 472 412
+        L 500 462
+        A 8 8 0 0 1 502 466
+        L 502 960
+      " />
+      <path id="line03" class="circuit-line glow-line" d="
+        M 312 -35
+        L 312 300
+        A 8 8 0 0 0 320 308
+        L 350 308
+        A 8 8 0 0 1 358 316
+        L 358 400
+        A 8 8 0 0 0 366 408
+        L 466 408
+        A 8 8 0 0 1 472 412
+        L 500 462
+        A 8 8 0 0 1 502 466
+        L 502 885
+      " />
+      <path id="line04" class="circuit-line glow-line" d="
+        M 112 -50
+        L 312 300
+        A 8 8 0 0 0 316 304
+        L 350 304
+        A 8 8 0 0 1 358 312
+        L 358 400
+        A 8 8 0 0 0 366 408
+        L 466 408
+        A 8 8 0 0 1 472 412
+        L 500 462
+        A 8 8 0 0 1 502 466
+        L 502 870
+      " />
+      <path id="line05" class="circuit-line glow-line" d="
+        M -10 350
+        L 200 350
+        A 8 8 0 0 1 208 354
+        L 354 604
+        A 8 8 0 0 0 362 608
+        L 438 608
+        A 8 8 0 0 1 446 616
+        L 446 910
+      " />
+      <path id="line06" class="circuit-line glow-line" d="
+        M -10 350
+        L 200 350
+        A 8 8 0 0 1 208 354
+        L 354 604
+        A 8 8 0 0 0 362 608
+        L 438 608
+        A 8 8 0 0 1 446 616
+        L 446 830
+      " />
+      <path id="line07" class="circuit-line glow-line" d="
+        M -10 350
+        L 200 350
+        A 8 8 0 0 1 208 354
+        L 354 604
+        A 8 8 0 0 0 362 608
+        L 438 608
+        A 8 8 0 0 1 446 616
+        L 446 810
+      " />
+      <path id="line08" class="circuit-line glow-line" d="
+        M -10 675
+        L 200 675
+        A 8 8 0 0 1 208 683
+        L 208 910
+      " />
+    </g>
+    <g id="arrows">
+      <g id="arrow01">
+        <path id="arrow01-side" class="arrow-side" d="
+          M 1050 662
+          L 1050 900
+          L 1040 910
+          L 1040 672
+          L 1050 662
+          L 1150 540
+          L  988 672
+          L 1040 672
+          M 1302 662
+          L 1290 672
+          L 1250 672
+          L 1250 660
+        " />
+        <rect id="arrow01-rect" class="arrow-main" x="1050" y="660" width="200" height="240" />
+        <polyline id="arrow01-poly" class="arrow-main" points="
+          1051 662
+          1000 662
+          1150 540
+          1300 662
+          1249 662
+        " />
+      </g>
+      <g id="arrow02">
+        <path id="arrow02-side" class="arrow-side" d="
+          M 1375 352
+          L 1375 900
+          L 1369 910
+          L 1369 367
+          L 1375 352
+          L 1450  75
+          L 1332 367
+          L 1369 367
+          M 1563 352
+          L 1557 367
+          L 1525 367
+          L 1525 350
+        " />
+        <rect id="arrow02-rect" class="arrow-main" x="1375" y="350" width="150" height="550" />
+        <polyline id="arrow02-poly" class="arrow-main" points="
+          1376 352
+          1338 352
+          1450  75
+          1562 352
+          1524 352
+        " />
+      </g>
+
+
+
+      <g id="arrow03">
+        <path id="arrow03-side" class="arrow-side" d="
+          M 1760 508
+          L 1760 900
+          L 1748 912
+          L 1748 520
+          L 1760 508
+          L 1886 309
+          L 1687 520
+          L 1748 520
+          M 2073 508
+          L 2061 520
+          L 2010 520
+          L 2010 506
+        " />
+        <rect id="arrow03-rect" class="arrow-main" x="1760" y="506" width="250" height="394" />
+        <polyline id="arrow03-poly" class="arrow-main" points="
+          1761 508
+          1698 508
+          1886 309
+          2072 508
+          2009 508
+        " />
+      </g>
+    </g>
+    <g id="text">
+      <text x="1250" y="450" dy="" textLength="1250" lengthAdjust="spacingAndGlyphs">
+        Patch Tuesday
+      </text>
+    </g>
+</svg>
