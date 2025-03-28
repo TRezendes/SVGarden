@@ -1,0 +1,103 @@
+<svg
+  version="2.0"
+  id="lumon"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  width="424"
+  height="300"
+  viewBox="0 0 424 300"
+>
+<title id="lumon_title">lumon</title>
+<metadata id="lumon_metadata">
+  <rdf:RDF>
+  <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+  </cc:License>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+    <dc:title>lumon</dc:title>
+    <dc:date>2025-03-27</dc:date>
+    <dc:creator>
+    <cc:Agent>
+    <dc:title>Timothy Rezendes</dc:title>
+    </cc:Agent>
+    </dc:creator>
+    <dc:source>https://github.com/TRezendes/SVGarden/</dc:source>
+    <dc:language>en</dc:language>
+  </cc:Work>
+  </rdf:RDF>
+</metadata>
+<defs>
+  <style>
+    .mdr {
+      .rich {
+        fill: #235BA8;
+        stroke: #235BA8;
+      }
+
+      .light {
+        fill: #4CB4E7;
+        stroke: #4CB4E7;
+      }
+    }
+    .od {
+      .rich {
+        fill: #00957E;
+        stroke: #00957E;
+      }
+
+      .light {
+        fill: #8BE076;
+        stroke: #8BE076;
+      }
+    }
+    .admn {
+      .rich {
+        fill: #000000;
+        stroke: #000000;
+      }
+
+      .light {
+        fill: #aaaaaa;
+        stroke: #aaaaaa;
+      }
+    }
+  </style>
+  <mask id="glasgow-block">
+    <rect x="100" y="0" width="224" height="154" fill="white" />
+  </mask>
+</defs>
+<g class="mdr">
+<rect
+  class="rich"
+  x="0"
+  y="0"
+  rx="60"
+  ry="60"
+  width="424"
+  height="300"
+/>
+<path
+  class="light"
+  mask="url(#glasgow-block)"
+  d="
+    M 193 65
+    C 210 32 214 32 231 65
+    L 288 182
+    L 136 182
+    L 193 65
+  "
+/>
+<circle
+  class="light"
+  cx="212"
+  cy="182"
+  r="68.25"
+/>
+</g>
+</svg>
