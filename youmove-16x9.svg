@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  width="1920"
+  height="1080"
+  viewbox="0 0 1920 1080"
+  >
+  <title id="move_title">you move shield</title>
+  <metadata id="move_metadata">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:title>you move shield</dc:title>
+        <dc:date>2025-04-27</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Timothy Rezendes</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>trans rights</rdf:li>
+            <rdf:li>captain america</rdf:li>
+            <rdf:li>shield</rdf:li>
+            <rdf:li>hero</rdf:li>
+            <rdf:li>wallpaper</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:description>Captain America's shield in the pink, white and blue of the trans pride flag instead of red white and blue, flanked by the words: "No, you move"</dc:description>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+
+  <defs>
+    <filter id='shadow' color-interpolation-filters="sRGB">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.5"/>
+    </filter>
+    <style>
+    @font-face {
+        font-family: 'American Captain';
+        src: url('data:font/woff2;charset=utf-8;base64,d09GMgABAAAAAAQ0AA4AAAAACTgAAAPfAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgSQcGgZgAFwRCAqDTIJiCxoAATYCJAMwBCAFh14HOhu7ByMRNntQukL2z8PYmPnUJ17Imqe6bBFZw1DOu/ih3uNm2w5FNFF81IOI9y+q+n1ooBXtbB3yLhoEgM/nNp/T9Eftg8nqiaox+w5Q838c4OCY6aK062wpNvGJRBdF46gCbKLjWZT1v7anyIO92A+4M5FXA/jOCOADABSC4CEI4JKVwsjgHqOHYqMDzCXig/qM9DtxFdBR+lPbCDF0wCAnxalIfToiGOgY2Lh4aNipuJvq7MFFhZ76FYY00ToyTvxfd3ZORSAWIebD/W9qHz0t6U3CFSj1RJZjgLHRKAWSTV9Ie0FfBagu/NjhE0aOojrZ6WCSBOu4vAEEQMfYCGRHAQrQgBgaAsTQqQ8EsFGYZKcwdWhGWzqkhJvUhDa/be9dd8FpJxNaw06lUn/iAyA94AAjgX0AgA7kEtSp9CcP+HxuIBBznHYz3i16w/TXzd13pe6+9SYFO/iUp1zlbz+sq+6b5O/SzT/BZ3go0tB6HzfJXYg5fY3nLVon1oxe9nTXt1CcGe88/6I3Qbb6Vhy/HaWnjr2e1M4/3jfR36bLKOXTJhbVUHn+o0uX+LOlp61Zo+fuXQOL1Cm8oWobqmA8qVkyVqv7f/+9ypWMkn7AxRaXc2A8qbhj5PaRleFAjsspipnWtWpdQv8wJbYNHkK22Q+GTFkWRA5HRkQ2RxZkKVyzwqs3zptX+069+vQZ0adnH9py0/r3n/yz+P7olsiAyJbo/mI/J/frT84xkYwXi4TLPCkjf+SiGa72TmW/CRUmhF+3Lj378tzLTKUAEEDg+tmP37sFK/9nezYAj7QvpQC+lm55Ovl/spD1xDoO2CgABEySYLsxiP/mEQQOPuFEdRAEkItUUZ+oopeiitYVQk5GThTMIqZtMk2/1Ghc3AUTro4glV7yIqTKgg1CiLKgsKgLGmGaTOrxYBCiK5gEGQoWZZgCNi4nwaUwlydDZTjC9WzSEN0BBvMTBiG7tAZFQEaDRk6ZOanDYJBddoNJVrkNFgPlM9jEVGNwaa9udCdDECrc8SWj8WCONwGMG2n05PcQ/f8eBx3jZn8/yLKEMK1bme7Zpn9b7Hbh/jjIxuftvA62aXstRwi3kd3IY0J6FmF80HohY/CO2urPyOpsTIc1QLsHaO2/Onk27Z9mSdpjFszBE47A/8NII3yauqf/De5lifwO5rJFOjJaNUbh5l6xPz0LvBpPr+29rNaiZCg9+pElQ7g/DrLxeTuKrBlWRFnW1CCE24CzUVc3NlxLVCE1tLq0RMbgoadeGIUvixZo4tHpGzKyMR/d+AamgsZUErt9q+eFYP4xauV3+xMAAAA=') format('woff2'),
+            url('data:font/woff;charset=utf-8;base64,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') format('woff');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
+      <!-- #0600b1; -->
+      :root {
+        --safezone-fill: None;
+      }
+      .pink {
+        fill: #f5a9b8;
+        stroke: #f5a9b8;
+        stroke-width: 1;
+      }
+      .blue {
+        fill: #5bcefa;
+        stroke: #5bcefa;
+        stroke-width: 1;
+      }
+      .white {
+        fill: #ffffff;
+        stroke: #ffffff;
+        stroke-width: 1;
+      }
+      .black {
+        fill: #000000;
+        stroke: #000000;
+        stroke-width: 1;
+      }
+      #background {
+        fill: #000055;
+        stroke: #000055;
+      }
+      text {
+        font-family: 'American Captain';
+        font-size: 330px;
+        filter: url(#shadow);
+        fill: #000055;
+        stroke: #000055;
+      }
+      #circle1 {
+        filter: url(#shadow);
+      }
+      .safe {
+        fill: var(--safezone-fill);
+        stroke-width: 0;
+      }
+      #shield {
+        transform-box: fill-box;
+        transform-origin: center center;
+      }
+      #imperative {
+        transform-box: fill-box;
+        transform-origin: center center;
+      }
+    </style>
+
+  </defs>
+  <rect
+    id="background"
+    class="black"
+    x="0"
+    y="0"
+    width="1920"
+    height="1080"
+  />
+  <g id="shield" transform="scale(6.2)">
+    <circle
+      id="circle1"
+      class="pink"
+      cx="960"
+      cy="540"
+      r="180"
+    />
+    <circle
+      id="circle2"
+      class="white"
+      cx="960"
+      cy="540"
+      r="140"
+    />
+    <circle
+      id="circle3"
+      class="pink"
+      cx="960"
+      cy="540"
+      r="100"
+    />
+    <circle
+      id="circle4"
+      class="blue"
+      cx="960"
+      cy="540"
+      r="60"
+    />
+    <polygon
+      id="star"
+      class="white"
+      points="
+        960    481
+        974    524
+        1016.5 524
+        982    550
+        994    588
+        960    564
+        926    588
+        938    550
+        903.5  524
+        946    524
+      "
+    />
+  </g>
+  <g id="imperative" transform="matrix(1.4 0 0 1.4 140 130)">
+    <text id="no1" x="680 820 955" y="300" textLength="360">NO,</text>
+    <text id="you1" x="357.5" y="612">YOU</text>
+    <text id="move1" x="857.5" y="612" textLength="425" lengthAdjust="spacingAndGlyphs">MOVE</text>
+  </g>
+
+</svg>

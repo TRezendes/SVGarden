@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
   xmlns="http://www.w3.org/2000/svg"
@@ -7,15 +6,16 @@
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:cc="http://creativecommons.org/ns#"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
-  width="1920"
-  height="1080"
-  viewbox="0 0 1920 1080"
+  width="3024"
+  height="1964"
+  viewBox="0 0 3024 1964"
+  preserveAspectRatio="none"
   >
-  <title id="move_title">you move shield</title>
+  <title id="move_title">you move</title>
   <metadata id="move_metadata">
     <rdf:RDF>
       <cc:Work rdf:about="">
-        <dc:title>you move shield</dc:title>
+        <dc:title>you move</dc:title>
         <dc:date>2025-04-27</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -108,6 +108,7 @@
     </style>
 
   </defs>
+  <g id ="theWhole" transform="matrix(1.575 0 0 1.8185185185 0 0)">
   <rect
     id="background"
     class="black"
@@ -167,5 +168,5 @@
     <text id="you1" x="357.5" y="612">YOU</text>
     <text id="move1" x="857.5" y="612" textLength="425" lengthAdjust="spacingAndGlyphs">MOVE</text>
   </g>
-
+  </g>
 </svg>
