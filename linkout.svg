@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  width="100"
+  height="100"
+  viewbox="0 0 100 100"
+  preserveAspectRatio="xMidYMid meet"
+  >
+  <title id="linkout_title">linkout</title>
+  <metadata id="linkout_metadata">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:title>linkout</dc:title>
+        <dc:date>2025-05-12</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Timothy Rezendes</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>html</rdf:li>
+            <rdf:li>web</rdf:li>
+            <rdf:li>link</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:description>An open square with an arrow draw from the middle and pointing up and out over the top right corner</dc:description>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <style>
+      svg {
+        fill: none;
+        stroke: #000000;
+        stroke-width: 10;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <!-- <path
+    id="box"
+    d="
+      M 40 5
+      L 10 5
+      C
+    "
+  /> -->
+  <rect id="box" x="5" y="5" width="90" height="90" rx="10" ry="10" />
+</svg>
