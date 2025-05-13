@@ -6,9 +6,9 @@
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:cc="http://creativecommons.org/ns#"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
-  width="100"
-  height="100"
-  viewbox="0 0 100 100"
+  width="150"
+  height="150"
+  viewbox="0 0 150 150"
   preserveAspectRatio="xMidYMid meet"
   >
   <title id="linkout_title">linkout</title>
@@ -47,15 +47,33 @@
         stroke-width: 10;
         stroke-linecap: round;
       }
+
+      #arrow {
+        transition: transform 0.1s;
+        transform: translate(-10px, 10px);
+      }
+
+      #arrow:hover {
+        transform: translate(0, 0);
+        cursor: pointer;
+      }
+
+      #hover-target {
+        fill: #00000000;
+        stroke: #00000000;
+      }
     </style>
+    <mask id="maskBox">
+      <rect x="0" y="0" height="150" width="150" fill="#ffffff" />
+      <rect x="60" y="0" height="90" width="90" fill="#000000" />
+    </mask>
   </defs>
-  <!-- <path
-    id="box"
-    d="
-      M 40 5
-      L 10 5
-      C
-    "
-  /> -->
-  <rect id="box" x="5" y="5" width="90" height="90" rx="10" ry="10" />
+  <rect id="box" x="30" y="30" width="90" height="90" rx="10" ry="10" mask="url(#maskBox)" />
+  <g id="arrow">
+    <rect id="hover-target" x="0" y="0" width="150" height="150" />
+    <line id="arrow-stem" x1="75" y1="75" x2="130" y2="20" />
+    <path id="arrow-crown" d="M 85 20 L 130 20 L 130 65" />
+  </g>
+  <line id="box-top" x1="45" y1="30" x2="75" y2="30" />
+  <line id="box-right" x1="120" y1="105" x2="120" y2="75" />
 </svg>
