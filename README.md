@@ -13,7 +13,16 @@ in this collection to the Public Domain, so you are not obligated to provide cre
 
 1. [cyburntruck](cyburntruck.svg)
 2. [laptop](laptop.svg)
-3. [update](update.svg)
+3. [linkout](linkout.svg)
+4. [lumon](lumon.svg)
+5. [update](update.svg)
+    * [patch-tuesday](patch-tuesday.svg)
+6. youmove
+    1. [youmove-15.4x10](youmove-15.4x10.svg)
+    2. [youmove-16x9](youmove-16x9.svg)
+    3. [youmove-cover](youmove-cover.svg)
+
+
 
 ---
 
