@@ -27,15 +27,15 @@
             <dc:subject>
               <rdf:Bag>
                 <rdf:li>Pokemon</rdf:li>
-                <rdf:li>Pok&eacute;mon</rdf:li>
-                <rdf:li>Pok&eacute; Ball</rdf:li>
+                <rdf:li>Pok&#233;mon</rdf:li>
+                <rdf:li>Pok&#233; Ball</rdf:li>
                 <rdf:li>Poke Ball</rdf:li>
                 <rdf:li>Pocket Monsters</rdf:li>
                 <rdf:li>games</rdf:li>
               </rdf:Bag>
             </dc:subject>
             <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
-            <dc:description>A "Master Ball" Pok&eacute; Ball. White on the bottom half and Purple on the top half with pink bulges on either side of the top half and a white letter "M" centered above the ball's latch. </dc:description>
+            <dc:description>A "Master Ball" Pok&#233; Ball. White on the bottom half and Purple on the top half with pink bulges on either side of the top half and a white letter "M" centered above the ball's latch. </dc:description>
           </cc:Work>
           <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
             <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />

@@ -1,0 +1,683 @@
+<svg
+  version="2.0"
+  id="pokeballs"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  width="500"
+  height="500"
+  viewBox="0 0 8500 11000"
+>
+  <title id="pokeballs_title">pokeballs</title>
+  <metadata id="pokeballs_metadata">
+    <rdf:RDF>
+    <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+      <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+    </cc:License>
+    <cc:Work rdf:about="">
+      <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      <dc:title>pokeballs</dc:title>
+      <dc:date>2025-06-18</dc:date>
+      <dc:creator>
+      <cc:Agent>
+      <dc:title>Timothy Rezendes</dc:title>
+      </cc:Agent>
+      </dc:creator>
+      <dc:source>https://github.com/TRezendes/SVGarden/</dc:source>
+      <dc:language>en</dc:language>
+    </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <style>
+      @font-face {
+        font-family: 'futura';
+        src: url(data:application/font-woff2;charset=utf-8;base64,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) format('woff2');
+        font-weight: normal;
+        font-style: normal;
+        }
+      svg {
+        stroke: #000000;
+        stroke-width: 10;
+      }
+      text {
+        font-family: 'futura';
+        font-size: 150px;
+        stroke: none;
+      }
+      .empty {
+        fill: none;
+      }
+      .pink {
+        fill: #d0006f;
+      }
+      .red {
+        fill: #ff0000;
+      }
+      .white {
+        fill: #ffffff;
+      }
+      .yellow {
+        fill: yellow;
+      }
+      .great {
+        fill: #0365dd;
+      }
+      .ultra {
+        fill: #000000;
+      }
+      .master {
+        fill: #8c4799;
+      }
+    </style>
+    <clipPath id="clipMask">
+      <circle cx="250" cy="250" r="250" />
+    </clipPath>
+    <rect id="ballFill" x="0" y="0" width="500" height="500" class="white" />
+    <path
+      id="ballTop"
+      d="
+        M 0 0
+        H 500
+        V 250
+        Q 250 310 0 250
+        Z
+      "
+    />
+    <path
+      id="midline"
+      class="empty"
+      stroke-width="20"
+      d="
+        M 0 250
+        Q 250 310 500 250
+      "
+    />
+    <circle id="ball" cx="250" cy="250" r="245" class="empty" />
+    <ellipse id="latchOuter" cx="250" cy="280" rx="75" ry="72" class="white" />
+    <ellipse id="latchInner" cx="250" cy="280" rx="37.5" ry="36" class="white" stroke-width="5" />
+    <path
+      id="greatStripe"
+      class="red"
+      stroke="none"
+      d="
+        M 116 45
+        Q 165 92 205 156
+        L 164 180
+        Q 102 145 50 90
+      "
+    />
+    <path
+      id="ultraStripe"
+      class="yellow"
+      stroke="none"
+      d="
+        M 42 268
+        Q 50 190 42 0
+        L 458 0
+        Q 450 190 458 268
+        L 374 276
+        Q 366 190 374 52
+        Q 250 -15 126 52
+        Q 134 190 126 276
+      "
+    />
+    <path
+      id="masterBumpInner"
+      class="pink"
+      stroke="none"
+      d="
+        M 5 200
+        A 10 20 40 0 0 150 30
+        L 10 10
+        Z
+      "
+    />
+    <path
+      id="masterBumpOuter"
+      class="pink"
+      d="
+        M 9 207
+        C 5 138 85 38 150 26
+      "
+    />
+    <g id="redBall" clip-path="url(#clipMask)">
+      <use href="#ballFill" />
+      <use id="redTop" href="#ballTop" class="red" />
+      <use href="#midline" />
+      <use href="#ball" />
+      <use href="#latchOuter" />
+      <use href="#latchInner" />
+    </g>
+    <g id="blueBall" clip-path="url(#clipMask)">
+      <use href="#ballFill" />
+      <use id="blueTop" href="#ballTop" fill="blue" />
+      <use href="#midline" />
+      <use href="#ball" />
+      <use href="#latchOuter" />
+      <use href="#latchInner" />
+    </g>
+    <g id="purpleBall" clip-path="url(#clipMask)">
+      <use href="#ballFill" />
+      <use id="purpleTop" href="#ballTop" fill="purple" />
+      <use href="#midline" />
+      <use href="#ball" />
+      <use href="#latchOuter" />
+      <use href="#latchInner" />
+    </g>
+    <g id="greenBall" clip-path="url(#clipMask)">
+      <use href="#ballFill" />
+      <use id="greenTop" href="#ballTop" fill="green" />
+      <use href="#midline" />
+      <use href="#ball" />
+      <use href="#latchOuter" />
+      <use href="#latchInner" />
+    </g>
+    <g id="greatBall" clip-path="url(#clipMask)">
+      <use href="#ballFill" />
+      <use id="greatTop" href="#ballTop" class="great" />
+      <use href="#midline" />
+      <use href="#greatStripe" />
+      <use href="#greatStripe" transform-box="fill-box" transform="translate(500 0) scale(-1 1)" />
+      <use href="#ball" />
+      <use href="#latchOuter" />
+      <use href="#latchInner" />
+    </g>
+    <g id="ultraBall" clip-path="url(#clipMask)">
+      <use href="#ballFill" />
+      <use id="ultraTop" href="#ballTop" class="ultra" />
+      <use href="#ultraStripe" />
+      <use href="#midline" />
+      <use href="#ball" />
+      <use href="#latchOuter" />
+      <use href="#latchInner" />
+    </g>
+    <g id="masterBall">
+      <g id="masterClipped" clip-path="url(#clipMask)">
+        <use href="#ballFill" />
+        <use id="masterTop" href="#ballTop" class="master" />
+        <use href="#midline" />
+        <use href="#ball" />
+        <use href="#masterBumpInner" />
+        <use href="#masterBumpInner"  transform-box="fill-box" transform="translate(500 0) scale(-1 1)" />
+        <use href="#latchOuter" />
+        <use href="#latchInner" />
+        <text id="M" text-anchor="middle" dominant-baseline="central" x="250" y="130" class="white" transform="rotate(180)" transform-origin="250 130" textLength="175" lengthAdjust="spacingAndGlyphs">
+          W
+        </text>
+      </g>
+      <use href="#masterBumpOuter" />
+      <use href="#masterBumpOuter"  transform-box="fill-box" transform="translate(500 0) scale(-1 1)" />
+    </g>
+  </defs>
+  <!-- <rect id="background" x="0" y="0" width="8500" height="11000" fill="forestgreen" stroke="forestgreen" /> -->
+  <!-- <use href="#redBall" x="0" y="0" />
+  <use href="#greatBall" x="500" y="0" />
+  <use href="#ultraBall" x="1000" y="0" />
+  <use href="#greatBall" x="-250" y="433" />
+  <use href="#masterBall" x="250" y="433" />
+  <use href="#redBall" x="750" y="433" />
+  <use href="#ultraBall" x="0" y="866" />
+  <use href="#masterBall" x="500" y="866" />
+  <use href="#greatBall" x="1000" y="866" /> -->
+  <use href="#greatBall" x="0" y="-129" />
+  <use href="#ultraBall" x="500" y="-129" />
+  <use href="#masterBall" x="1000" y="-129" />
+  <use href="#masterBall" x="1500" y="-129" />
+  <use href="#greatBall" x="2000" y="-129" />
+  <use href="#greatBall" x="2500" y="-129" />
+  <use href="#masterBall" x="3000" y="-129" />
+  <use href="#masterBall" x="3500" y="-129" />
+  <use href="#ultraBall" x="4000" y="-129" />
+  <use href="#redBall" x="4500" y="-129" />
+  <use href="#greatBall" x="5000" y="-129" />
+  <use href="#masterBall" x="5500" y="-129" />
+  <use href="#redBall" x="6000" y="-129" />
+  <use href="#masterBall" x="6500" y="-129" />
+  <use href="#ultraBall" x="7000" y="-129" />
+  <use href="#redBall" x="7500" y="-129" />
+  <use href="#ultraBall" x="8000" y="-129" />
+  <use href="#ultraBall" x="0" y="737" />
+  <use href="#redBall" x="500" y="737" />
+  <use href="#ultraBall" x="1000" y="737" />
+  <use href="#greatBall" x="1500" y="737" />
+  <use href="#greatBall" x="2000" y="737" />
+  <use href="#greatBall" x="2500" y="737" />
+  <use href="#ultraBall" x="3000" y="737" />
+  <use href="#redBall" x="3500" y="737" />
+  <use href="#greatBall" x="4000" y="737" />
+  <use href="#greatBall" x="4500" y="737" />
+  <use href="#greatBall" x="5000" y="737" />
+  <use href="#ultraBall" x="5500" y="737" />
+  <use href="#redBall" x="6000" y="737" />
+  <use href="#redBall" x="6500" y="737" />
+  <use href="#greatBall" x="7000" y="737" />
+  <use href="#ultraBall" x="7500" y="737" />
+  <use href="#greatBall" x="8000" y="737" />
+  <use href="#greatBall" x="0" y="1603" />
+  <use href="#greatBall" x="500" y="1603" />
+  <use href="#ultraBall" x="1000" y="1603" />
+  <use href="#greatBall" x="1500" y="1603" />
+  <use href="#redBall" x="2000" y="1603" />
+  <use href="#redBall" x="2500" y="1603" />
+  <use href="#greatBall" x="3000" y="1603" />
+  <use href="#redBall" x="3500" y="1603" />
+  <use href="#greatBall" x="4000" y="1603" />
+  <use href="#ultraBall" x="4500" y="1603" />
+  <use href="#greatBall" x="5000" y="1603" />
+  <use href="#greatBall" x="5500" y="1603" />
+  <use href="#ultraBall" x="6000" y="1603" />
+  <use href="#greatBall" x="6500" y="1603" />
+  <use href="#greatBall" x="7000" y="1603" />
+  <use href="#ultraBall" x="7500" y="1603" />
+  <use href="#ultraBall" x="8000" y="1603" />
+  <use href="#masterBall" x="0" y="2469" />
+  <use href="#masterBall" x="500" y="2469" />
+  <use href="#ultraBall" x="1000" y="2469" />
+  <use href="#greatBall" x="1500" y="2469" />
+  <use href="#ultraBall" x="2000" y="2469" />
+  <use href="#ultraBall" x="2500" y="2469" />
+  <use href="#greatBall" x="3000" y="2469" />
+  <use href="#ultraBall" x="3500" y="2469" />
+  <use href="#masterBall" x="4000" y="2469" />
+  <use href="#masterBall" x="4500" y="2469" />
+  <use href="#masterBall" x="5000" y="2469" />
+  <use href="#masterBall" x="5500" y="2469" />
+  <use href="#ultraBall" x="6000" y="2469" />
+  <use href="#redBall" x="6500" y="2469" />
+  <use href="#redBall" x="7000" y="2469" />
+  <use href="#redBall" x="7500" y="2469" />
+  <use href="#greatBall" x="8000" y="2469" />
+  <use href="#greatBall" x="0" y="3335" />
+  <use href="#greatBall" x="500" y="3335" />
+  <use href="#redBall" x="1000" y="3335" />
+  <use href="#ultraBall" x="1500" y="3335" />
+  <use href="#redBall" x="2000" y="3335" />
+  <use href="#greatBall" x="2500" y="3335" />
+  <use href="#ultraBall" x="3000" y="3335" />
+  <use href="#ultraBall" x="3500" y="3335" />
+  <use href="#greatBall" x="4000" y="3335" />
+  <use href="#redBall" x="4500" y="3335" />
+  <use href="#greatBall" x="5000" y="3335" />
+  <use href="#greatBall" x="5500" y="3335" />
+  <use href="#redBall" x="6000" y="3335" />
+  <use href="#redBall" x="6500" y="3335" />
+  <use href="#greatBall" x="7000" y="3335" />
+  <use href="#redBall" x="7500" y="3335" />
+  <use href="#redBall" x="8000" y="3335" />
+  <use href="#ultraBall" x="0" y="4201" />
+  <use href="#masterBall" x="500" y="4201" />
+  <use href="#masterBall" x="1000" y="4201" />
+  <use href="#redBall" x="1500" y="4201" />
+  <use href="#redBall" x="2000" y="4201" />
+  <use href="#redBall" x="2500" y="4201" />
+  <use href="#ultraBall" x="3000" y="4201" />
+  <use href="#masterBall" x="3500" y="4201" />
+  <use href="#greatBall" x="4000" y="4201" />
+  <use href="#ultraBall" x="4500" y="4201" />
+  <use href="#greatBall" x="5000" y="4201" />
+  <use href="#greatBall" x="5500" y="4201" />
+  <use href="#ultraBall" x="6000" y="4201" />
+  <use href="#ultraBall" x="6500" y="4201" />
+  <use href="#greatBall" x="7000" y="4201" />
+  <use href="#greatBall" x="7500" y="4201" />
+  <use href="#greatBall" x="8000" y="4201" />
+  <use href="#greatBall" x="0" y="5067" />
+  <use href="#greatBall" x="500" y="5067" />
+  <use href="#greatBall" x="1000" y="5067" />
+  <use href="#masterBall" x="1500" y="5067" />
+  <use href="#redBall" x="2000" y="5067" />
+  <use href="#ultraBall" x="2500" y="5067" />
+  <use href="#redBall" x="3000" y="5067" />
+  <use href="#greatBall" x="3500" y="5067" />
+  <use href="#ultraBall" x="4000" y="5067" />
+  <use href="#redBall" x="4500" y="5067" />
+  <use href="#masterBall" x="5000" y="5067" />
+  <use href="#masterBall" x="5500" y="5067" />
+  <use href="#ultraBall" x="6000" y="5067" />
+  <use href="#masterBall" x="6500" y="5067" />
+  <use href="#masterBall" x="7000" y="5067" />
+  <use href="#redBall" x="7500" y="5067" />
+  <use href="#ultraBall" x="8000" y="5067" />
+  <use href="#redBall" x="0" y="5933" />
+  <use href="#greatBall" x="500" y="5933" />
+  <use href="#greatBall" x="1000" y="5933" />
+  <use href="#greatBall" x="1500" y="5933" />
+  <use href="#ultraBall" x="2000" y="5933" />
+  <use href="#redBall" x="2500" y="5933" />
+  <use href="#redBall" x="3000" y="5933" />
+  <use href="#greatBall" x="3500" y="5933" />
+  <use href="#redBall" x="4000" y="5933" />
+  <use href="#greatBall" x="4500" y="5933" />
+  <use href="#greatBall" x="5000" y="5933" />
+  <use href="#masterBall" x="5500" y="5933" />
+  <use href="#redBall" x="6000" y="5933" />
+  <use href="#redBall" x="6500" y="5933" />
+  <use href="#masterBall" x="7000" y="5933" />
+  <use href="#greatBall" x="7500" y="5933" />
+  <use href="#ultraBall" x="8000" y="5933" />
+  <use href="#greatBall" x="0" y="6799" />
+  <use href="#greatBall" x="500" y="6799" />
+  <use href="#greatBall" x="1000" y="6799" />
+  <use href="#greatBall" x="1500" y="6799" />
+  <use href="#greatBall" x="2000" y="6799" />
+  <use href="#redBall" x="2500" y="6799" />
+  <use href="#masterBall" x="3000" y="6799" />
+  <use href="#greatBall" x="3500" y="6799" />
+  <use href="#masterBall" x="4000" y="6799" />
+  <use href="#redBall" x="4500" y="6799" />
+  <use href="#ultraBall" x="5000" y="6799" />
+  <use href="#ultraBall" x="5500" y="6799" />
+  <use href="#ultraBall" x="6000" y="6799" />
+  <use href="#greatBall" x="6500" y="6799" />
+  <use href="#greatBall" x="7000" y="6799" />
+  <use href="#masterBall" x="7500" y="6799" />
+  <use href="#ultraBall" x="8000" y="6799" />
+  <use href="#ultraBall" x="0" y="7665" />
+  <use href="#ultraBall" x="500" y="7665" />
+  <use href="#ultraBall" x="1000" y="7665" />
+  <use href="#ultraBall" x="1500" y="7665" />
+  <use href="#ultraBall" x="2000" y="7665" />
+  <use href="#ultraBall" x="2500" y="7665" />
+  <use href="#redBall" x="3000" y="7665" />
+  <use href="#ultraBall" x="3500" y="7665" />
+  <use href="#greatBall" x="4000" y="7665" />
+  <use href="#ultraBall" x="4500" y="7665" />
+  <use href="#ultraBall" x="5000" y="7665" />
+  <use href="#masterBall" x="5500" y="7665" />
+  <use href="#greatBall" x="6000" y="7665" />
+  <use href="#redBall" x="6500" y="7665" />
+  <use href="#masterBall" x="7000" y="7665" />
+  <use href="#masterBall" x="7500" y="7665" />
+  <use href="#ultraBall" x="8000" y="7665" />
+  <use href="#masterBall" x="0" y="8531" />
+  <use href="#masterBall" x="500" y="8531" />
+  <use href="#ultraBall" x="1000" y="8531" />
+  <use href="#ultraBall" x="1500" y="8531" />
+  <use href="#greatBall" x="2000" y="8531" />
+  <use href="#greatBall" x="2500" y="8531" />
+  <use href="#ultraBall" x="3000" y="8531" />
+  <use href="#redBall" x="3500" y="8531" />
+  <use href="#masterBall" x="4000" y="8531" />
+  <use href="#masterBall" x="4500" y="8531" />
+  <use href="#masterBall" x="5000" y="8531" />
+  <use href="#greatBall" x="5500" y="8531" />
+  <use href="#masterBall" x="6000" y="8531" />
+  <use href="#ultraBall" x="6500" y="8531" />
+  <use href="#masterBall" x="7000" y="8531" />
+  <use href="#ultraBall" x="7500" y="8531" />
+  <use href="#greatBall" x="8000" y="8531" />
+  <use href="#masterBall" x="0" y="9397" />
+  <use href="#ultraBall" x="500" y="9397" />
+  <use href="#redBall" x="1000" y="9397" />
+  <use href="#redBall" x="1500" y="9397" />
+  <use href="#ultraBall" x="2000" y="9397" />
+  <use href="#redBall" x="2500" y="9397" />
+  <use href="#masterBall" x="3000" y="9397" />
+  <use href="#redBall" x="3500" y="9397" />
+  <use href="#masterBall" x="4000" y="9397" />
+  <use href="#greatBall" x="4500" y="9397" />
+  <use href="#ultraBall" x="5000" y="9397" />
+  <use href="#greatBall" x="5500" y="9397" />
+  <use href="#ultraBall" x="6000" y="9397" />
+  <use href="#masterBall" x="6500" y="9397" />
+  <use href="#redBall" x="7000" y="9397" />
+  <use href="#masterBall" x="7500" y="9397" />
+  <use href="#masterBall" x="8000" y="9397" />
+  <use href="#masterBall" x="0" y="10263" />
+  <use href="#redBall" x="500" y="10263" />
+  <use href="#masterBall" x="1000" y="10263" />
+  <use href="#redBall" x="1500" y="10263" />
+  <use href="#greatBall" x="2000" y="10263" />
+  <use href="#masterBall" x="2500" y="10263" />
+  <use href="#greatBall" x="3000" y="10263" />
+  <use href="#redBall" x="3500" y="10263" />
+  <use href="#redBall" x="4000" y="10263" />
+  <use href="#greatBall" x="4500" y="10263" />
+  <use href="#greatBall" x="5000" y="10263" />
+  <use href="#masterBall" x="5500" y="10263" />
+  <use href="#masterBall" x="6000" y="10263" />
+  <use href="#greatBall" x="6500" y="10263" />
+  <use href="#redBall" x="7000" y="10263" />
+  <use href="#masterBall" x="7500" y="10263" />
+  <use href="#greatBall" x="8000" y="10263" />
+  <use href="#redBall" x="-250" y="304" />
+  <use href="#greatBall" x="250" y="304" />
+  <use href="#ultraBall" x="750" y="304" />
+  <use href="#ultraBall" x="1250" y="304" />
+  <use href="#greatBall" x="1750" y="304" />
+  <use href="#redBall" x="2250" y="304" />
+  <use href="#redBall" x="2750" y="304" />
+  <use href="#redBall" x="3250" y="304" />
+  <use href="#redBall" x="3750" y="304" />
+  <use href="#masterBall" x="4250" y="304" />
+  <use href="#redBall" x="4750" y="304" />
+  <use href="#ultraBall" x="5250" y="304" />
+  <use href="#ultraBall" x="5750" y="304" />
+  <use href="#ultraBall" x="6250" y="304" />
+  <use href="#greatBall" x="6750" y="304" />
+  <use href="#redBall" x="7250" y="304" />
+  <use href="#masterBall" x="7750" y="304" />
+  <use href="#redBall" x="8250" y="304" />
+  <use href="#redBall" x="-250" y="1170" />
+  <use href="#ultraBall" x="250" y="1170" />
+  <use href="#masterBall" x="750" y="1170" />
+  <use href="#greatBall" x="1250" y="1170" />
+  <use href="#masterBall" x="1750" y="1170" />
+  <use href="#greatBall" x="2250" y="1170" />
+  <use href="#greatBall" x="2750" y="1170" />
+  <use href="#masterBall" x="3250" y="1170" />
+  <use href="#masterBall" x="3750" y="1170" />
+  <use href="#greatBall" x="4250" y="1170" />
+  <use href="#masterBall" x="4750" y="1170" />
+  <use href="#masterBall" x="5250" y="1170" />
+  <use href="#redBall" x="5750" y="1170" />
+  <use href="#ultraBall" x="6250" y="1170" />
+  <use href="#ultraBall" x="6750" y="1170" />
+  <use href="#redBall" x="7250" y="1170" />
+  <use href="#ultraBall" x="7750" y="1170" />
+  <use href="#ultraBall" x="8250" y="1170" />
+  <use href="#ultraBall" x="-250" y="2036" />
+  <use href="#greatBall" x="250" y="2036" />
+  <use href="#masterBall" x="750" y="2036" />
+  <use href="#greatBall" x="1250" y="2036" />
+  <use href="#greatBall" x="1750" y="2036" />
+  <use href="#ultraBall" x="2250" y="2036" />
+  <use href="#greatBall" x="2750" y="2036" />
+  <use href="#greatBall" x="3250" y="2036" />
+  <use href="#redBall" x="3750" y="2036" />
+  <use href="#ultraBall" x="4250" y="2036" />
+  <use href="#ultraBall" x="4750" y="2036" />
+  <use href="#redBall" x="5250" y="2036" />
+  <use href="#redBall" x="5750" y="2036" />
+  <use href="#greatBall" x="6250" y="2036" />
+  <use href="#redBall" x="6750" y="2036" />
+  <use href="#masterBall" x="7250" y="2036" />
+  <use href="#ultraBall" x="7750" y="2036" />
+  <use href="#greatBall" x="8250" y="2036" />
+  <use href="#ultraBall" x="-250" y="2902" />
+  <use href="#redBall" x="250" y="2902" />
+  <use href="#masterBall" x="750" y="2902" />
+  <use href="#greatBall" x="1250" y="2902" />
+  <use href="#masterBall" x="1750" y="2902" />
+  <use href="#redBall" x="2250" y="2902" />
+  <use href="#masterBall" x="2750" y="2902" />
+  <use href="#redBall" x="3250" y="2902" />
+  <use href="#redBall" x="3750" y="2902" />
+  <use href="#ultraBall" x="4250" y="2902" />
+  <use href="#ultraBall" x="4750" y="2902" />
+  <use href="#ultraBall" x="5250" y="2902" />
+  <use href="#ultraBall" x="5750" y="2902" />
+  <use href="#redBall" x="6250" y="2902" />
+  <use href="#redBall" x="6750" y="2902" />
+  <use href="#greatBall" x="7250" y="2902" />
+  <use href="#greatBall" x="7750" y="2902" />
+  <use href="#masterBall" x="8250" y="2902" />
+  <use href="#ultraBall" x="-250" y="3768" />
+  <use href="#greatBall" x="250" y="3768" />
+  <use href="#masterBall" x="750" y="3768" />
+  <use href="#masterBall" x="1250" y="3768" />
+  <use href="#masterBall" x="1750" y="3768" />
+  <use href="#redBall" x="2250" y="3768" />
+  <use href="#redBall" x="2750" y="3768" />
+  <use href="#greatBall" x="3250" y="3768" />
+  <use href="#ultraBall" x="3750" y="3768" />
+  <use href="#masterBall" x="4250" y="3768" />
+  <use href="#ultraBall" x="4750" y="3768" />
+  <use href="#redBall" x="5250" y="3768" />
+  <use href="#greatBall" x="5750" y="3768" />
+  <use href="#ultraBall" x="6250" y="3768" />
+  <use href="#masterBall" x="6750" y="3768" />
+  <use href="#masterBall" x="7250" y="3768" />
+  <use href="#masterBall" x="7750" y="3768" />
+  <use href="#greatBall" x="8250" y="3768" />
+  <use href="#masterBall" x="-250" y="4634" />
+  <use href="#redBall" x="250" y="4634" />
+  <use href="#greatBall" x="750" y="4634" />
+  <use href="#masterBall" x="1250" y="4634" />
+  <use href="#redBall" x="1750" y="4634" />
+  <use href="#ultraBall" x="2250" y="4634" />
+  <use href="#greatBall" x="2750" y="4634" />
+  <use href="#greatBall" x="3250" y="4634" />
+  <use href="#masterBall" x="3750" y="4634" />
+  <use href="#greatBall" x="4250" y="4634" />
+  <use href="#greatBall" x="4750" y="4634" />
+  <use href="#masterBall" x="5250" y="4634" />
+  <use href="#ultraBall" x="5750" y="4634" />
+  <use href="#redBall" x="6250" y="4634" />
+  <use href="#redBall" x="6750" y="4634" />
+  <use href="#redBall" x="7250" y="4634" />
+  <use href="#ultraBall" x="7750" y="4634" />
+  <use href="#ultraBall" x="8250" y="4634" />
+  <use href="#redBall" x="-250" y="5500" />
+  <use href="#redBall" x="250" y="5500" />
+  <use href="#ultraBall" x="750" y="5500" />
+  <use href="#ultraBall" x="1250" y="5500" />
+  <use href="#masterBall" x="1750" y="5500" />
+  <use href="#ultraBall" x="2250" y="5500" />
+  <use href="#masterBall" x="2750" y="5500" />
+  <use href="#greatBall" x="3250" y="5500" />
+  <use href="#ultraBall" x="3750" y="5500" />
+  <use href="#redBall" x="4250" y="5500" />
+  <use href="#redBall" x="4750" y="5500" />
+  <use href="#masterBall" x="5250" y="5500" />
+  <use href="#greatBall" x="5750" y="5500" />
+  <use href="#greatBall" x="6250" y="5500" />
+  <use href="#greatBall" x="6750" y="5500" />
+  <use href="#greatBall" x="7250" y="5500" />
+  <use href="#ultraBall" x="7750" y="5500" />
+  <use href="#ultraBall" x="8250" y="5500" />
+  <use href="#redBall" x="-250" y="6366" />
+  <use href="#redBall" x="250" y="6366" />
+  <use href="#redBall" x="750" y="6366" />
+  <use href="#ultraBall" x="1250" y="6366" />
+  <use href="#greatBall" x="1750" y="6366" />
+  <use href="#greatBall" x="2250" y="6366" />
+  <use href="#redBall" x="2750" y="6366" />
+  <use href="#greatBall" x="3250" y="6366" />
+  <use href="#greatBall" x="3750" y="6366" />
+  <use href="#greatBall" x="4250" y="6366" />
+  <use href="#ultraBall" x="4750" y="6366" />
+  <use href="#redBall" x="5250" y="6366" />
+  <use href="#redBall" x="5750" y="6366" />
+  <use href="#greatBall" x="6250" y="6366" />
+  <use href="#redBall" x="6750" y="6366" />
+  <use href="#ultraBall" x="7250" y="6366" />
+  <use href="#redBall" x="7750" y="6366" />
+  <use href="#ultraBall" x="8250" y="6366" />
+  <use href="#greatBall" x="-250" y="7232" />
+  <use href="#masterBall" x="250" y="7232" />
+  <use href="#masterBall" x="750" y="7232" />
+  <use href="#redBall" x="1250" y="7232" />
+  <use href="#redBall" x="1750" y="7232" />
+  <use href="#ultraBall" x="2250" y="7232" />
+  <use href="#ultraBall" x="2750" y="7232" />
+  <use href="#masterBall" x="3250" y="7232" />
+  <use href="#masterBall" x="3750" y="7232" />
+  <use href="#masterBall" x="4250" y="7232" />
+  <use href="#ultraBall" x="4750" y="7232" />
+  <use href="#ultraBall" x="5250" y="7232" />
+  <use href="#ultraBall" x="5750" y="7232" />
+  <use href="#redBall" x="6250" y="7232" />
+  <use href="#greatBall" x="6750" y="7232" />
+  <use href="#redBall" x="7250" y="7232" />
+  <use href="#ultraBall" x="7750" y="7232" />
+  <use href="#greatBall" x="8250" y="7232" />
+  <use href="#masterBall" x="-250" y="8098" />
+  <use href="#greatBall" x="250" y="8098" />
+  <use href="#greatBall" x="750" y="8098" />
+  <use href="#masterBall" x="1250" y="8098" />
+  <use href="#masterBall" x="1750" y="8098" />
+  <use href="#masterBall" x="2250" y="8098" />
+  <use href="#masterBall" x="2750" y="8098" />
+  <use href="#redBall" x="3250" y="8098" />
+  <use href="#ultraBall" x="3750" y="8098" />
+  <use href="#redBall" x="4250" y="8098" />
+  <use href="#greatBall" x="4750" y="8098" />
+  <use href="#ultraBall" x="5250" y="8098" />
+  <use href="#masterBall" x="5750" y="8098" />
+  <use href="#greatBall" x="6250" y="8098" />
+  <use href="#masterBall" x="6750" y="8098" />
+  <use href="#redBall" x="7250" y="8098" />
+  <use href="#ultraBall" x="7750" y="8098" />
+  <use href="#greatBall" x="8250" y="8098" />
+  <use href="#ultraBall" x="-250" y="8964" />
+  <use href="#redBall" x="250" y="8964" />
+  <use href="#greatBall" x="750" y="8964" />
+  <use href="#masterBall" x="1250" y="8964" />
+  <use href="#ultraBall" x="1750" y="8964" />
+  <use href="#redBall" x="2250" y="8964" />
+  <use href="#greatBall" x="2750" y="8964" />
+  <use href="#ultraBall" x="3250" y="8964" />
+  <use href="#redBall" x="3750" y="8964" />
+  <use href="#masterBall" x="4250" y="8964" />
+  <use href="#redBall" x="4750" y="8964" />
+  <use href="#redBall" x="5250" y="8964" />
+  <use href="#ultraBall" x="5750" y="8964" />
+  <use href="#ultraBall" x="6250" y="8964" />
+  <use href="#greatBall" x="6750" y="8964" />
+  <use href="#ultraBall" x="7250" y="8964" />
+  <use href="#redBall" x="7750" y="8964" />
+  <use href="#masterBall" x="8250" y="8964" />
+  <use href="#masterBall" x="-250" y="9830" />
+  <use href="#masterBall" x="250" y="9830" />
+  <use href="#greatBall" x="750" y="9830" />
+  <use href="#ultraBall" x="1250" y="9830" />
+  <use href="#greatBall" x="1750" y="9830" />
+  <use href="#redBall" x="2250" y="9830" />
+  <use href="#redBall" x="2750" y="9830" />
+  <use href="#greatBall" x="3250" y="9830" />
+  <use href="#ultraBall" x="3750" y="9830" />
+  <use href="#redBall" x="4250" y="9830" />
+  <use href="#greatBall" x="4750" y="9830" />
+  <use href="#ultraBall" x="5250" y="9830" />
+  <use href="#ultraBall" x="5750" y="9830" />
+  <use href="#masterBall" x="6250" y="9830" />
+  <use href="#masterBall" x="6750" y="9830" />
+  <use href="#masterBall" x="7250" y="9830" />
+  <use href="#masterBall" x="7750" y="9830" />
+  <use href="#greatBall" x="8250" y="9830" />
+  <use href="#greatBall" x="-250" y="10696" />
+  <use href="#greatBall" x="250" y="10696" />
+  <use href="#redBall" x="750" y="10696" />
+  <use href="#masterBall" x="1250" y="10696" />
+  <use href="#ultraBall" x="1750" y="10696" />
+  <use href="#masterBall" x="2250" y="10696" />
+  <use href="#greatBall" x="2750" y="10696" />
+  <use href="#masterBall" x="3250" y="10696" />
+  <use href="#redBall" x="3750" y="10696" />
+  <use href="#ultraBall" x="4250" y="10696" />
+  <use href="#masterBall" x="4750" y="10696" />
+  <use href="#greatBall" x="5250" y="10696" />
+  <use href="#masterBall" x="5750" y="10696" />
+  <use href="#ultraBall" x="6250" y="10696" />
+  <use href="#ultraBall" x="6750" y="10696" />
+  <use href="#redBall" x="7250" y="10696" />
+  <use href="#greatBall" x="7750" y="10696" />
+  <use href="#redBall" x="8250" y="10696" />
+
+</svg>
