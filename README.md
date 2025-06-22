@@ -21,11 +21,11 @@ in this collection to the Public Domain, so you are not obligated to provide cre
     1. [youmove-15.4x10](youmove-15.4x10.svg)
     2. [youmove-16x9](youmove-16x9.svg)
     3. [youmove-cover](youmove-cover.svg)
-7. [Poké Balls](Pok%C3%A9%20Ball)
-    1. [pokeball](Pok%C3%A9%20Ball/pokeball.svg)
-    2. [greatBall](Pok%C3%A9%20Ball/greatBall.svg)
-    3. [ultraBall](Pok%C3%A9%20Ball/ultraBall.svg)
-    4. [masterBall](Pok%C3%A9%20Ball/masterBall.svg)
+7. [Poké Balls](Pok%C3%A9%20Balls)
+    1. [pokeball](Pok%C3%A9%20Balls/pokeball.svg)
+    2. [greatBall](Pok%C3%A9%20Balls/greatBall.svg)
+    3. [ultraBall](Pok%C3%A9%20Balls/ultraBall.svg)
+    4. [masterBall](Pok%C3%A9%20Balls/masterBall.svg)
 
 
 ---
