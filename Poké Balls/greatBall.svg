@@ -1,0 +1,114 @@
+<svg
+  version="2.0"
+  id="greatball"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  width="500"
+  height="500"
+  viewBox="0 0 500 500"
+>
+  <title id="greatball_title">greatball</title>
+  <metadata id="greatball_metadata">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:title>greatball</dc:title>
+        <dc:date>2025-06-21</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Timothy Rezendes</dc:title>
+            </cc:Agent>
+        </dc:creator>
+        <dc:source>https://github.com/TRezendes/SVGarden/</dc:source>
+        <dc:language>en</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Pokemon</rdf:li>
+            <rdf:li>Pok&eacute;mon</rdf:li>
+            <rdf:li>Pok&eacute; Ball</rdf:li>
+            <rdf:li>Poke Ball</rdf:li>
+            <rdf:li>Pocket Monsters</rdf:li>
+            <rdf:li>games</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:description>A "Great Ball" Pok&eacute; Ball. White on the bottom half and blue with red accents on the top half. </dc:description>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <style>
+      svg {
+        stroke: #000000;
+        stroke-width: 10;
+      }
+      .empty {
+        fill: none;
+      }
+      .red {
+        fill: #ff0000;
+      }
+      .white {
+        fill: #ffffff;
+      }
+      .great {
+        fill: #0365dd;
+      }
+    </style>
+    <clipPath id="clipMask">
+      <circle cx="250" cy="250" r="250" />
+    </clipPath>
+    <rect id="ballFill" x="0" y="0" width="500" height="500" class="white" />
+    <path
+      id="ballTop"
+      d="
+        M 0 0
+        H 500
+        V 250
+        Q 250 310 0 250
+        Z
+      "
+    />
+    <path
+      id="midline"
+      class="empty"
+      stroke-width="20"
+      d="
+        M 0 250
+        Q 250 310 500 250
+      "
+    />
+    <circle id="ball" cx="250" cy="250" r="245" class="empty" />
+    <ellipse id="latchOuter" cx="250" cy="280" rx="75" ry="72" class="white" />
+    <ellipse id="latchInner" cx="250" cy="280" rx="37.5" ry="36" class="white" stroke-width="5" />
+    <path
+      id="greatStripe"
+      class="red"
+      stroke="none"
+      d="
+        M 116 45
+        Q 165 92 205 156
+        L 164 180
+        Q 102 145 50 90
+      "
+    />
+    <g id="greatBall" clip-path="url(#clipMask)">
+      <use href="#ballFill" />
+      <use id="greatTop" href="#ballTop" class="great" />
+      <use href="#midline" />
+      <use href="#greatStripe" />
+      <use href="#greatStripe" transform-box="fill-box" transform="translate(500 0) scale(-1 1)" />
+      <use href="#ball" />
+      <use href="#latchOuter" />
+      <use href="#latchInner" />
+    </g>
+  </defs>
+  <use href="#greatBall" />
+</svg>

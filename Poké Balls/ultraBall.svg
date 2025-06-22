@@ -1,0 +1,124 @@
+<svg
+  version="2.0"
+  id="ultraball"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  width="500"
+  height="500"
+  viewBox="0 0 500 500"
+>
+  <title id="ultraball_title">ultraball</title>
+  <metadata id="ultraball_metadata">
+    <rdf:RDF>
+    <cc:Work rdf:about="">
+      <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      <dc:title>ultraball</dc:title>
+      <dc:date>2025-06-21</dc:date>
+            <dc:creator>
+              <cc:Agent>
+                <dc:title>Timothy Rezendes</dc:title>
+                </cc:Agent>
+            </dc:creator>
+            <dc:source>https://github.com/TRezendes/SVGarden/</dc:source>
+            <dc:language>en</dc:language>
+            <dc:subject>
+              <rdf:Bag>
+                <rdf:li>Pokemon</rdf:li>
+                <rdf:li>Pok&eacute;mon</rdf:li>
+                <rdf:li>Pok&eacute; Ball</rdf:li>
+                <rdf:li>Poke Ball</rdf:li>
+                <rdf:li>Pocket Monsters</rdf:li>
+                <rdf:li>games</rdf:li>
+              </rdf:Bag>
+            </dc:subject>
+            <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+            <dc:description>An "Ultra Ball" Pok&eacute; Ball. White on the bottom half and black with yellow accents on the top half. </dc:description>
+          </cc:Work>
+          <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+            <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+            <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+          </cc:License>
+        </rdf:RDF>
+      </metadata>
+  <defs>
+    <style>
+      svg {
+        stroke: #000000;
+        stroke-width: 10;
+      }
+      .empty {
+        fill: none;
+      }
+      .red {
+        fill: #ff0000;
+      }
+      .white {
+        fill: #ffffff;
+      }
+      .yellow {
+        fill: yellow;
+      }
+      .great {
+        fill: #0365dd;
+      }
+      .ultra {
+        fill: #000000;
+      }
+    </style>
+    <clipPath id="clipMask">
+      <circle cx="250" cy="250" r="250" />
+    </clipPath>
+    <rect id="ballFill" x="0" y="0" width="500" height="500" class="white" />
+    <path
+      id="ballTop"
+      d="
+        M 0 0
+        H 500
+        V 250
+        Q 250 310 0 250
+        Z
+      "
+    />
+    <path
+      id="midline"
+      class="empty"
+      stroke-width="20"
+      d="
+        M 0 250
+        Q 250 310 500 250
+      "
+    />
+    <circle id="ball" cx="250" cy="250" r="245" class="empty" />
+    <ellipse id="latchOuter" cx="250" cy="280" rx="75" ry="72" class="white" />
+    <ellipse id="latchInner" cx="250" cy="280" rx="37.5" ry="36" class="white" stroke-width="5" />
+    <path
+      id="ultraStripe"
+      class="yellow"
+      stroke="none"
+      d="
+        M 42 268
+        Q 50 190 42 0
+        L 458 0
+        Q 450 190 458 268
+        L 374 276
+        Q 366 190 374 52
+        Q 250 -15 126 52
+        Q 134 190 126 276
+      "
+    />
+    <g id="ultraBall" clip-path="url(#clipMask)">
+      <use href="#ballFill" />
+      <use id="ultraTop" href="#ballTop" class="ultra" />
+      <use href="#ultraStripe" />
+      <use href="#midline" />
+      <use href="#ball" />
+      <use href="#latchOuter" />
+      <use href="#latchInner" />
+    </g>
+  </defs>
+  <use href="#ultraBall" />
+</svg>
