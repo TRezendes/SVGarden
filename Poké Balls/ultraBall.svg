@@ -27,15 +27,15 @@
             <dc:subject>
               <rdf:Bag>
                 <rdf:li>Pokemon</rdf:li>
-                <rdf:li>Pok&eacute;mon</rdf:li>
-                <rdf:li>Pok&eacute; Ball</rdf:li>
+                <rdf:li>Pok&#233;mon</rdf:li>
+                <rdf:li>Pok&#233; Ball</rdf:li>
                 <rdf:li>Poke Ball</rdf:li>
                 <rdf:li>Pocket Monsters</rdf:li>
                 <rdf:li>games</rdf:li>
               </rdf:Bag>
             </dc:subject>
             <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
-            <dc:description>An "Ultra Ball" Pok&eacute; Ball. White on the bottom half and black with yellow accents on the top half. </dc:description>
+            <dc:description>An "Ultra Ball" Pok&#233; Ball. White on the bottom half and black with yellow accents on the top half. </dc:description>
           </cc:Work>
           <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
             <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
