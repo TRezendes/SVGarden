@@ -32,7 +32,7 @@
           </rdf:Bag>
         </dc:subject>
         <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
-        <dc:description>Captain America's shield in the pink, white and blue of the trans pride flag instead of red white and blue, flanked by the words: "No, you move"</dc:description>
+        <dc:description>Captain America's shield in the pink, white and blue of the trans pride flag instead of red white and blue, overlaid by the words: "No, you move"</dc:description>
       </cc:Work>
       <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
         <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />

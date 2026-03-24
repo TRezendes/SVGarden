@@ -21,6 +21,8 @@
             <dc:title>Timothy Rezendes</dc:title>
           </cc:Agent>
         </dc:creator>
+        <dc:source>https://github.com/TRezendes/SVGarden/</dc:source>
+        <dc:language>en</dc:language>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>trans rights</rdf:li>
