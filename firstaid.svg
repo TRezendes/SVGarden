@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg>
+<svg
+  version="2.0"
+  id="firstaid"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  width="3300"
+  height="2550"
+  viewBox="0 0 3300 2550"
+>
+  <title id="firstaid_title">firstaid</title>
+  <metadata id="firstaid_metadata">
+    <rdf:RDF>
+    <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+      <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+    </cc:License>
+    <cc:Work rdf:about="">
+      <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      <dc:title>firstaid</dc:title>
+      <dc:date>2026-03-26</dc:date>
+      <dc:creator>
+      <cc:Agent>
+      <dc:title>Timothy Rezendes</dc:title>
+      </cc:Agent>
+      </dc:creator>
+      <dc:source>https://github.com/TRezendes/SVGarden/</dc:source>
+      <dc:language>en</dc:language>
+    </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <style>
+      @font-face {
+          font-family: 'Antonio';
+          src: url('data:font/woff2;charset=utf-8;base64,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') format('woff2');
+          font-weight: bold;
+          font-style: normal;
+          font-display: swap;
+      }
+      .red {
+        stroke: #fd372c;
+        fill: #fd372c;
+      }
+      .black {
+        stroke: #000000;
+        fill: #000000;
+      }
+      .white {
+        stroke: #ffffff;
+        fill: #ffffff;
+      }
+      text {
+        font-family: 'Antonio';
+        font-size: 638px;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+      #cross {
+        font-size: 1276px;
+      }
+    </style>
+    <polygon
+      id="right-arrow"
+      class="white"
+      points="
+        0,262
+        440,262
+        288,124
+        288,0
+        640,320
+        288,640
+        288,516
+        440,378
+        0,378
+        0,262
+      "
+    />
+  </defs>
+  <rect id="background" class="white" x="0" y="0" width="3300" height="2550" />
+  <rect id="border-outer" stroke-width="0" class="red" x="60" y="60" width="3180" height="2430" rx="180" ry="180" />
+  <rect id="border-inner" stroke-width="0" class="white" x="120" y="120" width="3060" height="2310" rx="120" ry="120" />
+  <rect id="red-rect" stroke-width="0" class="red" x="180" y="180" width="2940" height="2190" rx="60" ry="60" />
+  <text id="FIRST AID" class="white" x="50%" y="25%">FIRST AID</text>
+  <text id="KIT" class="white" x="50%" y="50%">KIT</text>
+  <circle id="cross-circle" class="white" cx="1650" cy="1912.5" r="320" />
+  <text id="cross" class="red" x="50%" y="75%">+</text>
+  <use href="#right-arrow" x="435" y="1274" />
+  <use href="#right-arrow" x="2225" y="1274" />
+</svg>
