@@ -43,6 +43,9 @@
           font-style: normal;
           font-display: swap;
       }
+      use {
+        transform-box: fill-box;
+      }
       .red {
         stroke: #fd372c;
         fill: #fd372c;
@@ -70,17 +73,21 @@
       class="white"
       points="
         0,262
-        440,262
-        288,124
+        402,262
+        288,158
         288,0
         640,320
         288,640
-        288,516
-        440,378
+        288,482
+        402,378
         0,378
         0,262
       "
     />
+    <use id="left-arrow" href="#right-arrow" x="0" y="0" transform="scale(-1 1)" transform-origin="center" />
+    
+    <polygon id="triangle1" stoke="#00ffff" fill="#00ffff" points="288,0 462,158 288,158 288,0" />
+    <polygon id="triangle2" stoke="#ff00ff" fill="#ff00ff" points="462,158 383,244 288,158" />
   </defs>
   <rect id="background" class="white" x="0" y="0" width="3300" height="2550" />
   <rect id="border-outer" stroke-width="0" class="red" x="60" y="60" width="3180" height="2430" rx="180" ry="180" />
@@ -90,6 +97,35 @@
   <text id="KIT" class="white" x="50%" y="50%">KIT</text>
   <circle id="cross-circle" class="white" cx="1650" cy="1912.5" r="320" />
   <text id="cross" class="red" x="50%" y="75%">+</text>
-  <use href="#right-arrow" x="435" y="1274" />
-  <use href="#right-arrow" x="2225" y="1274" />
+  <!-- <use href="#right-arrow" x="435" y="1274" />
+  <use href="#right-arrow" x="2225" y="1274" /> -->
+  <!-- <use href="#left-arrow" x="435" y="1274" />
+  <use href="#left-arrow" x="2225" y="1274" /> -->
 </svg>
+
+<!-- 
+y = -0.909x + 261.76
+-124 = -0.909x + 261.76
+-385.76 = -0.909x
+424.378437843784 = x
+
+y = -0.909x + 261.76
+-158 = -0.909x + 261.76
+-419.76 = -0.909x
+461.782178217822 = x
+
+y = -0.909x + 104
+-262 = -0.909x + 104
+-366 = -0.909x
+402.640264026403 = x
+
+
+-0.909 * m2 = -1
+m2 = 1.1001100110011
+
+y = 1.1x - 590.4
+
+
+y = 1.10011x - 666.3
+y = 1.10011x
+-->
