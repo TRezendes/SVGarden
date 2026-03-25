@@ -12,7 +12,7 @@ in this collection to the Public Domain, so you are not obligated to provide cre
 ## SVGs
 
 1. [cyburntruck](cyburntruck.svg)
-2. [firstaid](firstaid.svg) (choose from 4 arrow direction in source)
+2. [firstaid](firstaid.svg) (choose from 4 arrow directions in source)
 3. [laptop](laptop.svg)
 4. [linkout](linkout.svg)
 5. [lumon](lumon.svg)
