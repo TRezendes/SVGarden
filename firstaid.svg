@@ -92,6 +92,9 @@
       #cross {
         font-size: 1276px;
       }
+      #instructions {
+        font-size: 100px;
+      }
     </style>
     <polygon
       id="right-arrow"
@@ -138,6 +141,6 @@
   <use href="#up-arrow" x="2225" y="1274" /> -->
 
   <!-- Uncomment for DOWN pointing arrows -->
-  <!-- <use href="#down-arrow" x="435" y="1274" />
-  <use href="#down-arrow" x="2225" y="1274" /> -->
+  <use href="#down-arrow" x="435" y="1274" />
+  <use href="#down-arrow" x="2225" y="1274" />
 </svg>
