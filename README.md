@@ -25,10 +25,10 @@ in this collection to the Public Domain, so you are not obligated to provide cre
     * [patch-tuesday](patch-tuesday.svg)
 8. [warpdrive](warpdrive.svg)
     * Bonus: [stars.py](stars.py), the Python script I wrote to generate the stars for this image.
-9. youmove
+<!-- 9. youmove
     1. [youmove-15.4x10](youmove-15.4x10.svg)
     2. [youmove-16x9](youmove-16x9.svg)
-    3. [youmove-cover](youmove-cover.svg)
+    3. [youmove-cover](youmove-cover.svg) -->
 
 
 ---
