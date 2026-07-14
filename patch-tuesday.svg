@@ -3,8 +3,12 @@
   xmlns="http://www.w3.org/2000/svg"
   xmlns:svg="http://www.w3.org/2000/svg"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:ns0="http://joinup.eu/licence/"
+  xmlns:dc11="http://purl.org/dc/elements/1.1/"
+  xmlns:dc="http://purl.org/dc/terms/"
   xmlns:cc="http://creativecommons.org/ns#"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
   viewBox="0 0 2500 900"
   width="2500"
   height="900"
@@ -45,10 +49,31 @@
         <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
         <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
       </cc:License>
+      <dc11:LicenseDocument rdf:about="http://data.europa.eu/w21/64195be4-cba9-4837-ba3d-90487b7fa360">
+        <rdfs:label xml:lang="en">SIL Open Font License 1.1</rdfs:label>
+        <ns0:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</ns0:deprecated>
+        <dc11:description>&lt;p&gt;OFL is used for licensing fonts (character polices). Selling fonts by themselves is not allowed, but bundling with software and selling font design services is authorised. If font is modified, name must be changed. Document embedding is authorised.&lt;/p&gt;</dc11:description>
+        <ns0:legal-type rdf:resource="http://joinup.eu/legal-type#Modify-Merge"/>
+        <ns0:legal-type rdf:resource="http://joinup.eu/legal-type#FSFFREE-Libre"/>
+        <ns0:legal-type rdf:resource="http://joinup.eu/legal-type#IncludeCopyright"/>
+        <ns0:legal-type rdf:resource="http://joinup.eu/legal-type#IncludeLicence"/>
+        <ns0:legal-type rdf:resource="http://joinup.eu/legal-type#RenameModifications"/>
+        <ns0:legal-type rdf:resource="http://joinup.eu/legal-type#Use-Reproduce"/>
+        <ns0:legal-type rdf:resource="http://joinup.eu/legal-type#OSIApproved"/>
+        <ns0:legal-type rdf:resource="http://joinup.eu/legal-type#NotAvailable"/>
+        <ns0:legal-type rdf:resource="http://joinup.eu/legal-type#NotFixed"/>
+        <ns0:legal-type rdf:resource="http://joinup.eu/legal-type#CommercialUse"/>
+        <ns0:legal-type rdf:resource="http://joinup.eu/legal-type#Distribute"/>
+        <dc11:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <owl:sameAs rdf:resource="http://spdx.org/licenses/OFL-1.1"/>
+      </dc11:LicenseDocument>
     </rdf:RDF>
     </metadata>
     <defs>
       <style>
+      <!-- Copyright 2010 The League Gothic Project Authors (https://github.com/theleagueof/league-gothic)
+        This Font Software is licensed under the SIL Open Font License, Version 1.1 .
+      https://openfontlicense.org -->
         @font-face {
           font-family: "League Gothic";
           src:
