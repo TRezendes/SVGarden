@@ -32,7 +32,6 @@ in this collection to the Public Domain, so you are not obligated to provide cre
     2. [youmove-16x9](youmove-16x9.svg)
     3. [youmove-cover](youmove-cover.svg) -->
 
-
 ---
 
 ![GitHub License](https://img.shields.io/github/license/TRezendes/SVGarden?style=flat&color=27FB6B)
