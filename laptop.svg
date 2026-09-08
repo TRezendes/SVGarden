@@ -1,47 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg>
 <svg
+  id="laptop"
   xmlns="http://www.w3.org/2000/svg"
   xmlns:svg="http://www.w3.org/2000/svg"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:cc="http://creativecommons.org/ns#"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
-  viewBox="0 0 360 422"
   width="360"
   height="422"
-  >
-  <title id="title1">laptop</title>
-  <desc id="document-version">
-    1.1
-  </desc>
-  <metadata id="metadata1">
+  viewBox="0 0 360 422"
+>
+  <title id="laptop_title">laptop</title>
+  <metadata id="laptop_metadata">
     <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:title>laptop</dc:title>
-        <dc:date>2024-08-23</dc:date>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Timothy Rezendes &amp; 232 Software</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:subject>
-          <rdf:Bag>
-            <rdf:li>chromebook</rdf:li>
-            <rdf:li>laptop</rdf:li>
-            <rdf:li>computer</rdf:li>
-          </rdf:Bag>
-        </dc:subject>
-        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
-        <dc:description>Line illustration of an open laptop computer</dc:description>
-      </cc:Work>
-      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
-        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
+    <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+      <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+    </cc:License>
+    <cc:Work rdf:about="">
+      <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      <dc:title>laptop</dc:title>
+      <dc:date>2026-09-07</dc:date>
+      <dc:creator>
+      <cc:Agent>
+      <dc:title>Timothy Rezendes</dc:title>
+      </cc:Agent>
+      </dc:creator>
+      <dc:source>https://github.com/TRezendes/SVGarden/</dc:source>
+      <dc:language>en</dc:language>
+    </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs>
     <style>
+      @font-face {
+        font-family: 'roboto';
+        src: url(data:application/font-woff2;charset=utf-8;base64,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) format('woff2');
+          font-weight: normal;
+          font-style: normal;
+      }
       rect {
         stroke: #000000;
         fill: none;
@@ -53,176 +52,214 @@
         fill: #aaaaaa;
       }
       text {
-        fill="#000000;"
+        fill: #000000;
+        font-family: roboto;
+        text-anchor: middle;
+        dominant-baseline: middle;
       }
     </style>
+    
+    <rect id="function_key" x="0" y="0" width="20" height="10" rx="2" />
+    <rect id="standard_key" x="0" y="0" width="18.5" height="18" rx="2" />
+    <mask id="magnifier_mask">
+      <circle cx="46" cy="285" r="10" fill="#ffffff" stroke="none" />
+      <circle cx="46" cy="285" r="2" fill="#000000" stroke="none" />
+    </mask>
   </defs>
   <g id="computer">
-  <rect id="upper-shell" x="10" y="10" width="340" height="200" rx="10"  />
-  <rect id="lower-shell" x="10" y="212" width="340" height="200" rx="10"  />
-  <rect id="monitor" x="20" y="20" width="320" height="180" rx="6"  />
-  <circle id="camera" cx="180" cy="15" r="2" />
-  <rect id="keyboard-well" x="30" y="222" width="300" height="118" rx="5"  />
-  <rect id="trackpad" x="147.5" y="344" width="85" height="63" rx="6"  />
-  <g id="keyboard">
-    <g id="function-row">
-      <rect x="38" y="225" width="20" height="10" rx="2"  />
-      <text x="43.5" y="231.5"  font-size="7px">esc</text>
-      <rect x="62" y="225" width="20" height="10" rx="2"  />
-      <rect x="86" y="225" width="20" height="10" rx="2"  />
-      <rect x="110" y="225" width="20" height="10" rx="2"  />
-      <rect x="134" y="225" width="20" height="10" rx="2"  />
-      <rect x="158" y="225" width="20" height="10" rx="2"  />
-      <rect x="182" y="225" width="20" height="10" rx="2"  />
-      <rect x="206" y="225" width="20" height="10" rx="2"  />
-      <rect x="230" y="225" width="20" height="10" rx="2"  />
-      <rect x="254" y="225" width="20" height="10" rx="2"  />
-      <rect x="278" y="225" width="20" height="10" rx="2"  />
-      <rect x="302" y="225" width="20" height="10" rx="2"  />
-      <g id="power-symbol"><!-- Power Symbol -->
-        <circle cx="312" cy="230" r="3" fill="none" stroke="#000000" />
-        <line x1="312" y1="226" x2="312" y2="230" style="stroke:white;stroke-width:3" />
-        <line x1="312" y1="226" x2="312" y2="230" style="stroke:black;stroke-width:1" />
+    <rect id="upper-shell" x="10" y="10" width="340" height="200" rx="10" />
+    <rect id="lower-shell" x="10" y="212" width="340" height="200" rx="10" />
+    <rect id="monitor" x="20" y="20" width="320" height="180" rx="6" />
+    <circle id="camera" cx="180" cy="15" r="2" />
+    <rect id="keyboard-well" x="30" y="222" width="300" height="118" rx="5" />
+    <rect id="trackpad" x="147.5" y="344" width="85" height="63" rx="6" />
+    <g id="keyboard">
+      <g id="function-row">
+        <use href="#function_key" x="38" y="225" />
+        <text x="48" y="230" font-size="7px">esc</text>
+        <use href="#function_key" x="62" y="225" />
+        <use href="#function_key" x="86" y="225" />
+        <use href="#function_key" x="110" y="225" />
+        <use href="#function_key" x="134" y="225" />
+        <use href="#function_key" x="158" y="225" />
+        <use href="#function_key" x="182" y="225" />
+        <use href="#function_key" x="206" y="225" />
+        <use href="#function_key" x="230" y="225" />
+        <use href="#function_key" x="254" y="225" />
+        <use href="#function_key" x="278" y="225" />
+        <use href="#function_key" x="302" y="225" />
+        <g id="power-symbol"><!-- Power Symbol -->
+          <circle cx="312" cy="230" r="3" fill="none" stroke="#000000" />
+          <line x1="312" y1="226" x2="312" y2="230" stroke="#ffffff" stroke-width="3" />
+          <line x1="312" y1="226" x2="312" y2="230" stroke="#000000" stroke-width="1" />
+        </g>
       </g>
-    </g>
-    <g id="number-row">
-      <rect x="32" y="237" width="18.5" height="18" rx="2"  />
-      <text x="40" y="255" >`</text>
-      <rect x="52.5" y="237" width="18.5" height="18" rx="2"  />
-      <text x="59.5" y="249"  font-size="10px">1</text>
-      <rect x="73" y="237" width="18.5" height="18" rx="2"  />
-      <text x="80" y="249"  font-size="10px">2</text>
-      <rect x="93.5" y="237" width="18.5" height="18" rx="2"  />
-      <text x="100.5" y="249"  font-size="10px">3</text>
-      <rect x="114" y="237" width="18.5" height="18" rx="2"  />
-      <text x="121" y="249"  font-size="10px">4</text>
-      <rect x="134.5" y="237" width="18.5" height="18" rx="2"  />
-      <text x="141.5" y="249"  font-size="10px">5</text>
-      <rect x="155" y="237" width="18.5" height="18" rx="2"  />
-      <text x="162" y="249"  font-size="10px">6</text>
-      <rect x="175.5" y="237" width="18.5" height="18" rx="2"  />
-      <text x="182.5" y="249"  font-size="10px">7</text>
-      <rect x="196" y="237" width="18.5" height="18" rx="2"  />
-      <text x="203" y="249"  font-size="10px">8</text>
-      <rect x="216.5" y="237" width="18.5" height="18" rx="2"  />
-      <text x="223.5" y="249"  font-size="10px">9</text>
-      <rect x="237" y="237" width="18.5" height="18" rx="2"  />
-      <text x="244" y="249"  font-size="10px">0</text>
-      <rect x="257.5" y="237" width="18.5" height="18" rx="2"  />
-      <text x="265" y="248"  font-size="10px">-</text>
-      <rect x="278" y="237" width="18.5" height="18" rx="2"  />
-      <text x="285" y="248"  font-size="10px">=</text>
-      <rect x="298.5" y="237" width="28" height="18" rx="2"  />
-      <text x="300.5" y="248"  font-size="6px">backspace</text>
-    </g>
-    <g id="qwerty-row">
-      <rect x="32" y="257" width="28" height="18" rx="2"  />
-      <text x="38" y="268"  font-size="8px">tab</text>
-      <rect x="62" y="257" width="18.5" height="18" rx="2"  />
-      <text x="68.5" y="267.5"  font-size="10px">q</text>
-      <rect x="82.5" y="257" width="18.5" height="18" rx="2"  />
-      <text x="88" y="268"  font-size="10px">w</text>
-      <rect x="103" y="257" width="18.5" height="18" rx="2"  />
-      <text x="110" y="268"  font-size="10px">e</text>
-      <rect x="123.5" y="257" width="18.5" height="18" rx="2"  />
-      <text x="130.5" y="268"  font-size="10px">r</text>
-      <rect x="144" y="257" width="18.5" height="18" rx="2"  />
-      <text x="151" y="268"  font-size="10px">t</text>
-      <rect x="164.5" y="257" width="18.5" height="18" rx="2"  />
-      <text x="171.5" y="268"  font-size="10px">y</text>
-      <rect x="185" y="257" width="18.5" height="18" rx="2"  />
-      <text x="192" y="268"  font-size="10px">u</text>
-      <rect x="205.5" y="257" width="18.5" height="18" rx="2"  />
-      <text x="212.5" y="268"  font-size="10px">i</text>
-      <rect x="226" y="257" width="18.5" height="18" rx="2"  />
-      <text x="233" y="268"  font-size="10px">o</text>
-      <rect x="246.5" y="257" width="18.5" height="18" rx="2"  />
-      <text x="253.5" y="268"  font-size="10px">p</text>
-      <rect x="267" y="257" width="18.5" height="18" rx="2"  />
-      <text x="274" y="268"  font-size="10px">[</text>
-      <rect x="287.5" y="257" width="18.5" height="18" rx="2"  />
-      <text x="294.5" y="268"  font-size="10px">]</text>
-      <rect x="308" y="257" width="18.5" height="18" rx="2"  />
-      <text x="316" y="269"  font-size="10px">\</text>
-    </g>
-    <g id="home-row">
-      <rect x="32" y="277" width="33" height="18" rx="2"  />
-      <g id="search-symbol">
-        <circle cx="46" cy="285" r="2" fill="none" stroke="#000000" />
-        <line x1="47" y1="286" x2="51" y2="288" style="stroke:black;stroke-width:1" />
+      <g id="number-row">
+        <use href="#standard_key" x="32" y="237" />
+        <text x="41.25" y="250" >`</text>
+        <use href="#standard_key" x="52.5" y="237" />
+        <text x="61.75" y="246" font-size="10px">1</text>
+        <use href="#standard_key" x="73" y="237" />
+        <text x="82.25" y="246" font-size="10px">2</text>
+        <use href="#standard_key" x="93.5" y="237" />
+        <text x="102.75" y="246" font-size="10px">3</text>
+        <use href="#standard_key" x="114" y="237" />
+        <text x="123.25" y="246" font-size="10px">4</text>
+        <use href="#standard_key" x="134.5" y="237" />
+        <text x="143.75" y="246" font-size="10px">5</text>
+        <use href="#standard_key" x="155" y="237" />
+        <text x="164.25" y="246" font-size="10px">6</text>
+        <use href="#standard_key" x="175.5" y="237" />
+        <text x="184.75" y="246" font-size="10px">7</text>
+        <use href="#standard_key" x="196" y="237" />
+        <text x="205.25" y="246" font-size="10px">8</text>
+        <use href="#standard_key" x="216.5" y="237" />
+        <text x="223.5" y="246" font-size="10px">9</text>
+        <use href="#standard_key" x="237" y="237" />
+        <text x="246.25" y="246" font-size="10px">0</text>
+        <use href="#standard_key" x="257.5" y="237" />
+        <text x="266.25" y="246" font-size="10px">-</text>
+        <use href="#standard_key" x="278" y="237" />
+        <text x="287.25" y="246" font-size="10px">=</text>
+        <rect x="298.5" y="237" width="28" height="18" rx="2" />
+        <text x="312.5" y="246" font-size="6px" textLength="26" lengthAdjust="spacingAndGlyphs">backspace</text>
       </g>
-      <rect x="67" y="277" width="18.5" height="18" rx="2"  />
-      <text x="74" y="288"  font-size="10px">a</text>
-      <rect x="87.5" y="277" width="18.5" height="18" rx="2"  />
-      <text x="94.5" y="288"  font-size="10px">s</text>
-      <rect x="108" y="277" width="18.5" height="18" rx="2"  />
-      <text x="115" y="288.5"  font-size="10px">d</text>
-      <rect x="128.5" y="277" width="18.5" height="18" rx="2"  />
-      <text x="135.5" y="288.5"  font-size="10px">f</text>
-      <rect x="149" y="277" width="18.5" height="18" rx="2"  />
-      <text x="156" y="288"  font-size="10px">g</text>
-      <rect x="169.5" y="277" width="18.5" height="18" rx="2"  />
-      <text x="176.5" y="288.5"  font-size="10px">h</text>
-      <rect x="190" y="277" width="18.5" height="18" rx="2"  />
-      <text x="197" y="288"  font-size="10px">j</text>
-      <rect x="210.5" y="277" width="18.5" height="18" rx="2"  />
-      <text x="217.5" y="288.5"  font-size="10px">k</text>
-      <rect x="231" y="277" width="18.5" height="18" rx="2"  />
-      <text x="238" y="288.5"  font-size="10px">l</text>
-      <rect x="251.5" y="277" width="18.5" height="18" rx="2"  />
-      <text x="259" y="288"  font-size="10px">;</text>
-      <rect x="272" y="277" width="18.5" height="18" rx="2"  />
-      <text x="280" y="290"  font-size="10px">'</text>
-      <rect x="292.5" y="277" width="34" height="18" rx="2"  />
-      <text x="305" y="288"  font-size="8px">enter</text>
-    </g>
-    <g id="shift-row">
-      <rect x="32" y="297" width="43" height="18" rx="2"  />
-      <text x="39" y="308"  font-size="8px">shift</text>
-      <rect x="77" y="297" width="18.5" height="18" rx="2"  />
-      <text x="84" y="308"  font-size="10px">z</text>
-      <rect x="97.5" y="297" width="18.5" height="18" rx="2"  />
-      <text x="104.5" y="308"  font-size="10px">x</text>
-      <rect x="118" y="297" width="18.5" height="18" rx="2"  />
-      <text x="125" y="308"  font-size="10px">c</text>
-      <rect x="138.5" y="297" width="18.5" height="18" rx="2"  />
-      <text x="145.5" y="308"  font-size="10px">v</text>
-      <rect x="159" y="297" width="18.5" height="18" rx="2"  />
-      <text x="166" y="308.5"  font-size="10px">b</text>
-      <rect x="179.5" y="297" width="18.5" height="18" rx="2"  />
-      <text x="186.5" y="308"  font-size="10px">n</text>
-      <rect x="200" y="297" width="18.5" height="18" rx="2"  />
-      <text x="206" y="308"  font-size="10px">m</text>
-      <rect x="220.5" y="297" width="18.5" height="18" rx="2"  />
-      <text x="227.5" y="306"  font-size="10px">,</text>
-      <rect x="241" y="297" width="18.5" height="18" rx="2"  />
-      <text x="248" y="306"  font-size="10px">.</text>
-      <rect x="261.5" y="297" width="18.5" height="18" rx="2"  />
-      <text x="270" y="309"  font-size="10px">/</text>
-      <rect x="282.5" y="297" width="44" height="18" rx="2"  />
-      <text x="305" y="308"  font-size="8px">shift</text>
-    </g>
-    <g id="bottom-row">
-      <rect x="32" y="317" width="43" height="18" rx="2"  />
-      <text x="39" y="327.5"  font-size="8px">ctrl</text>
-      <rect x="77" y="317" width="39" height="18" rx="2"  />
-      <text x="84" y="327.5"  font-size="8px">alt</text>
-      <rect x="118" y="317" width="100.5" height="18" rx="2"  />
-      <rect x="220.5" y="317" width="18.5" height="18" rx="2"  />
-      <text x="226" y="327.5"  font-size="8px">alt</text>
-      <rect x="241" y="317" width="18.5" height="18" rx="2"  />
-      <text x="245" y="327.5"  font-size="8px">ctrl</text>
-      <g id="arrows">
-        <rect x="286.5" y="317" width="18.5" height="8.5" rx="2"  />
-        <polygon points="295.75,318.5 293.5,323 298,323" style="stroke:none;stroke-width:1" />
-        <rect x="264.5" y="327" width="18.5" height="8.5" rx="2"  />
-        <polygon points="268,331.25 272.5,329 272.5,333.5" style="stroke:none;stroke-width:1" />
-        <rect x="286.5" y="327" width="18.5" height="8.5" rx="2"  />
-        <polygon points="295.75,334 293.5,329.5 298,329.5" style="stroke:none;stroke-width:1" />
-        <rect x="308.5" y="327" width="18.5" height="8.5" rx="2"  />
-        <polygon points="323.5,331.25 319,329 319,333.5" style="stroke:none;stroke-width:1" />
+      <g id="qwerty-row">
+        <rect x="32" y="257" width="28" height="18" rx="2" />
+        <text x="46" y="266" font-size="8px">tab</text>
+        <use href="#standard_key" x="62" y="257" />
+        <text x="71.25" y="266" font-size="10px">q</text>
+        <use href="#standard_key" x="82.5" y="257" />
+        <text x="91.75" y="266" font-size="10px">w</text>
+        <use href="#standard_key" x="103" y="257" />
+        <text x="112.25" y="266" font-size="10px">e</text>
+        <use href="#standard_key" x="123.5" y="257" />
+        <text x="132.75" y="266" font-size="10px">r</text>
+        <use href="#standard_key" x="144" y="257" />
+        <text x="153.25" y="266" font-size="10px">t</text>
+        <use href="#standard_key" x="164.5" y="257" />
+        <text x="173.75" y="266" font-size="10px">y</text>
+        <use href="#standard_key" x="185" y="257" />
+        <text x="194.25" y="266" font-size="10px">u</text>
+        <use href="#standard_key" x="205.5" y="257" />
+        <text x="214.75" y="266" font-size="10px">i</text>
+        <use href="#standard_key" x="226" y="257" />
+        <text x="235.25" y="266" font-size="10px">o</text>
+        <use href="#standard_key" x="246.5" y="257" />
+        <text x="255.75" y="266" font-size="10px">p</text>
+        <use href="#standard_key" x="267" y="257" />
+        <text x="276.25" y="266" font-size="10px">[</text>
+        <use href="#standard_key" x="287.5" y="257" />
+        <text x="296.75" y="266" font-size="10px">]</text>
+        <use href="#standard_key" x="308" y="257" />
+        <text x="317.25" y="266" font-size="10px">\</text>
+      </g>
+      <g id="home-row">
+        <rect x="32" y="277" width="33" height="18" rx="2" />
+        <g id="search-symbol">
+          <circle cx="46" cy="285" r="2" fill="none" stroke="#000000" />
+          <line x1="46" y1="285" x2="50" y2="289" stroke="#000000" stroke-width="1" mask="url(#magnifier_mask)" />
+        </g>
+        <use href="#standard_key" x="67" y="277" />
+        <text x="76.25" y="286.25" font-size="10px">a</text>
+        <use href="#standard_key" x="87.5" y="277" />
+        <text x="96.75" y="286.25" font-size="10px">s</text>
+        <use href="#standard_key" x="108" y="277" />
+        <text x="117.25" y="286.25" font-size="10px">d</text>
+        <use href="#standard_key" x="128.5" y="277" />
+        <text x="137.75" y="286.25" font-size="10px">f</text>
+        <use href="#standard_key" x="149" y="277" />
+        <text x="158.25" y="286.25" font-size="10px">g</text>
+        <use href="#standard_key" x="169.5" y="277" />
+        <text x="178.25" y="286.25" font-size="10px">h</text>
+        <use href="#standard_key" x="190" y="277" />
+        <text x="199.25" y="286.25" font-size="10px">j</text>
+        <use href="#standard_key" x="210.5" y="277" />
+        <text x="217.75" y="286.25" font-size="10px">k</text>
+        <use href="#standard_key" x="231" y="277" />
+        <text x="240.25" y="286.25" font-size="10px">l</text>
+        <use href="#standard_key" x="251.5" y="277" />
+        <text x="260.75" y="286.25" font-size="10px">;</text>
+        <use href="#standard_key" x="272" y="277" />
+        <text x="281.25" y="290" font-size="10px">'</text>
+        <rect x="292.5" y="277" width="34" height="18" rx="2" />
+        <text x="309.5" y="286" font-size="8px">enter</text>
+      </g>
+      <g id="shift-row">
+        <rect x="32" y="297" width="43" height="18" rx="2" />
+        <text x="53.5" y="306" font-size="8px">shift</text>
+        <use href="#standard_key" x="77" y="297" />
+        <text x="86.25" y="306" font-size="10px">z</text>
+        <use href="#standard_key" x="97.5" y="297" />
+        <text x="106.75" y="306" font-size="10px">x</text>
+        <use href="#standard_key" x="118" y="297" />
+        <text x="127.25" y="306" font-size="10px">c</text>
+        <use href="#standard_key" x="138.5" y="297" />
+        <text x="147.75" y="306" font-size="10px">v</text>
+        <use href="#standard_key" x="159" y="297" />
+        <text x="168.25" y="306" font-size="10px">b</text>
+        <use href="#standard_key" x="179.5" y="297" />
+        <text x="188.75" y="306" font-size="10px">n</text>
+        <use href="#standard_key" x="200" y="297" />
+        <text x="209.25" y="306" font-size="10px">m</text>
+        <use href="#standard_key" x="220.5" y="297" />
+        <text x="229.25" y="306" font-size="10px">,</text>
+        <use href="#standard_key" x="241" y="297" />
+        <text x="250.25" y="306" font-size="10px">.</text>
+        <use href="#standard_key" x="261.5" y="297" />
+        <text x="270.75" y="306" font-size="10px">/</text>
+        <rect x="282.5" y="297" width="44" height="18" rx="2" />
+        <text x="304.5" y="306" font-size="8px">shift</text>
+      </g>
+      <g id="bottom-row">
+        <rect x="32" y="317" width="43" height="18" rx="2" />
+        <text x="53.5" y="326" font-size="8px">ctrl</text>
+        <rect x="77" y="317" width="39" height="18" rx="2" />
+        <text x="96.5" y="326" font-size="8px">alt</text>
+        <rect x="118" y="317" width="100.5" height="18" rx="2" />
+        <use href="#standard_key" x="220.5" y="317" />
+        <text x="229.75" y="326" font-size="8px">alt</text>
+        <use href="#standard_key" x="241" y="317" />
+        <text x="250.25" y="326" font-size="8px">ctrl</text>
+        <g id="arrows">
+          <rect x="286.5" y="317" width="18.5" height="8.5" rx="2" />
+          <polygon
+            stroke="none"
+            points="
+              295.75,318.5
+              293.5,323
+              298,323
+            "
+          />
+          <rect x="264.5" y="327" width="18.5" height="8.5" rx="2" />
+          <polygon
+            stroke="none"
+            points="
+              268,331.25
+              272.5,329
+              272.5,333.5
+            "
+          />
+          <rect x="286.5" y="327" width="18.5" height="8.5" rx="2" />
+          <polygon
+            stroke="none"
+            points="
+              295.75,334
+              293.5,329.5
+              298,329.5
+            "
+          />
+          <rect x="308.5" y="327" width="18.5" height="8.5" rx="2" />
+          <polygon
+            stroke="none"
+            points="
+              323.5,331.25
+              319,329
+              319,333.5
+            "
+          />
+        </g>
       </g>
     </g>
   </g>
-</g>
 </svg>
